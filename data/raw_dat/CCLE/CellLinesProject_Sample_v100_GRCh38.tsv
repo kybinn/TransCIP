@@ -1,0 +1,1021 @@
+COSMIC_SAMPLE_ID	SAMPLE_NAME	COSMIC_PHENOTYPE_ID	TUMOUR_ID	SAMPLE_TYPE	INDIVIDUAL_ID	WHOLE_GENOME_SCREEN	WHOLE_EXOME_SCREEN	TARGETED_SCREEN	RNASEQ_SCREEN	REARRANGEMENT_SCREEN	TUMOUR_SOURCE	NORMAL_TISSUE_TESTED	GENDER	AGE	THERAPY_RELATIONSHIP	SAMPLE_DIFFERENTIATOR	MUTATION_ALLELE_SPECIFICATION	MSI	AVERAGE_PLOIDY	SAMPLE_REMARK	DRUG_RESPONSE	GRADE	AGE_AT_TUMOUR_RECURRENCE	STAGE	CYTOGENETICS	METASTATIC_SITE	TUMOUR_REMARK	ETHNICITY	ENVIRONMENTAL_VARIABLES	GERMLINE_MUTATION	THERAPY	FAMILY	INDIVIDUAL_REMARK
+COSS908481	NCI-H2196	COSO29915333	825993	cell-line	808204	n	y	n	n	n	metastasis	n	m	67.0				Stable	1.73348803948886							bone marrow		White	Current smoker (100_pack-years)				
+COSS909715	SIG-M5	COSO27985021	827201	cell-line	809415	n	y	n	n	n	primary	n	m	63.0				Stable	3.35631828552309														
+COSS949177	NB13	COSO27774843	865573	cell-line	846916	n	y	n	n	n	metastasis	n	m	1.0				Stable	2.98351427154063							lymph node							
+COSS910545	QIMR-WIL	COSO27984905	828030	cell-line	810248	n	y	n	n	n	primary	n	u					Stable	1.97653086055863														
+COSS688014	NCI-H2141	COSO29915333	616174	cell-line	597213	n	y	n	n	n	metastasis	n	m	58.0				Stable	2.82673283745329							lymph node		Caucasian	Current smoker				
+COSS1240179	MS751	COSO28514862	1151924	cell-line	1124036	n	y	n	n	n	NS	n	u					Stable	1.86277990726191														
+COSS998184	Jurkat	COSO27985099	915409	cell-line	893332	n	y	n	n	n	NS	n	u					Unknown	1.93963139557228														
+COSS909755	SW837	COSO28664826	827239	cell-line	809454	n	y	n	n	n	primary	n	m	53.0				Stable	1.82741445279441					IV				Caucasian					
+COSS1240158	JHH-4	COSO29824862	1151903	cell-line	1124015	n	y	n	n	n	NS	n	u					Unknown															
+COSS930083	RO82-W-1	COSO36286317	846816	cell-line	828428	n	y	n	n	n	primary	n	u					Stable	3.28543124651163														
+COSS1240187	NCI-H2023	COSO29914826	1151932	cell-line	1124044	n	y	n	n	n	NS	n	u					Stable	2.47021081731819														
+COSS909776	U-2-OS	COSO28225214	827260	cell-line	809476	n	y	n	n	n	primary	n	f	15.0				Stable	3.03517118951424									Caucasian					
+COSS907043	H9	COSO29096562	824555	cell-line	806760	n	y	n	n	n	primary	n	m	53.0				Stable	2.87771692377677									Caucasian					
+COSS1298526	PA-TU-8902	COSO29004862	1209580	cell-line	1181133	n	y	n	n	n	NS	n	u					Stable	3.89938972941898														
+COSS906812	COLO-824	COSO28394862	824336	cell-line	806541	n	y	n	n	n	metastasis	n	m	52.0				Stable	2.43858742271604							pleural effusion							
+COSS909698	RKO	COSO28584862	827184	cell-line	809395	n	y	n	n	n	primary	n	u					High	2.12649813319565														
+COSS908125	MEL-JUSO	COSO32666078	825637	cell-line	807848	n	y	n	n	n	primary	n	f	58.0				Stable	2.17480096408963														
+COSS1298141	Hs766T	COSO29004862	1209195	cell-line	1180748	n	y	n	n	n	NS	n	u					Stable	2.39741831178737														
+COSS1240207	PE/CA-PJ15	COSO29324862	1151952	cell-line	1124064	n	y	n	n	n	NS	n	u					Stable	3.3824485129234														
+COSS749714	HCC1937	COSO28395278	668685	cell-line	649723	n	y	n	n	y	primary	y	f	23.0				Stable	4.23847303264557					III				Caucasian					
+COSS753565	IST-SL2	COSO29915333	672535	cell-line	653573	n	y	n	n	n	metastasis	n	m					Stable	2.01077054736419							pleural effusion							
+COSS688023	NCI-H446	COSO29915333	616183	cell-line	597222	n	y	n	n	n	metastasis	n	m	61.0				Stable	3.11351385939907							pleural effusion		Caucasian					
+COSS910852	CAL-85-1	COSO28394862	828338	cell-line	810555	n	y	n	n	n	primary	n	f	35.0				Stable	2.67538333064332														
+COSS907279	KINGS-1	COSO28245239	824791	cell-line	806999	n	y	n	n	n	primary	n	m					Stable	1.83250432623164														
+COSS753576	KYSE-70	COSO31394862	672546	cell-line	653584	n	y	n	n	n	primary	n	m	77.0				Stable	2.44049526319843									Japanese					
+COSS753561	HO-1-u-1	COSO29324830	672531	cell-line	653569	n	y	n	n	n	NS	n	u					Stable	2.62129039678071														
+COSS1298351	NCI-H2110	COSO29915674	1209405	cell-line	1180958	n	y	n	n	n	NS	n	u					Stable/Low	2.58150325232236														
+COSS908143	MN-60	COSO27984920	825655	cell-line	807866	n	y	n	n	n	primary	n	m	20.0				Low	1.97944293318177														
+COSS905950	ACHN	COSO29645549	823478	cell-line	805705	n	y	y	n	n	primary	n	m	22.0				Stable	2.33779214089145									Caucasian					
+COSS1240223	TT2609-C02	COSO36284862	1151968	cell-line	1124080	n	y	n	n	n	NS	n	u					Stable	3.17662685344933														
+COSS905990	OVCAR-4	COSO30134862	823518	cell-line	805747	n	y	y	n	n	primary	n	f					Stable	2.92513002671157														
+COSS687829	NCI-H661	COSO29915674	615989	cell-line	597028	n	y	n	n	n	metastasis	n	m	43.0				Stable	3.24733561099788							lymph node		Caucasian					
+COSS1240222	TOV-21G	COSO30134862	1151967	cell-line	1124079	n	y	n	n	n	NS	n	u					Low	2.02094222570661														
+COSS907275	KASUMI-1	COSO27984912	824787	cell-line	806995	n	y	n	n	n	primary	n	m	7.0				Stable	1.92883849109951									Japanese					
+COSS924240	MDA-MB-415	COSO28394862	841015	cell-line	822798	n	y	n	n	n	metastasis	n	f	38.0				Stable	2.87507566394735							pleural effusion		Caucasian					
+COSS909749	SW1710	COSO27964881	827233	cell-line	809448	n	y	n	n	n	primary	n	f	84.0				Stable	3.67465780011685									Caucasian					
+COSS1503369	EMC-BAC-1	COSO29914826	1426248	cell-line	1374914	n	y	n	n	n	NS	n	u					Stable	1.98305395018362														
+COSS1240155	IM-95	COSO36004862	1151900	cell-line	1124012	n	y	n	n	n	NS	n	u					Stable/Low	2.01400234127117														
+COSS753620	SIMA	COSO27774843	672590	cell-line	653628	n	y	n	n	n	primary	n	m	1.66				Stable	3.85789720238734			III						European					
+COSS907058	HMV-II	COSO32666078	824570	cell-line	806776	n	y	n	n	n	primary	n	f	65.0				Stable	2.7384186489414														
+COSS684052	A673	COSO28065222	612212	cell-line	593251	n	y	n	n	n	primary	n	f	15.0				Stable	1.9514369962649														
+COSS688010	NCI-H1963	COSO29915333	616170	cell-line	597209	n	y	n	n	n	primary	n	m	56.0				Stable/Low	1.98984284085241									Black					
+COSS909732	SK-UT-1	COSO35945393	827218	cell-line	809434	n	y	n	n	n	primary	n	f	75.0				Low	1.96699891780694									Caucasian					
+COSS910926	BFTC-905	COSO27964877	828410	cell-line	810625	n	y	n	n	n	primary	n	f	51.0				Stable	2.6602350001594									Chinese					
+COSS906868	GAMG	COSO28245257	824391	cell-line	806598	n	y	n	n	n	primary	n	f	42.0				Stable	2.92461917726959														
+COSS687505	C-33-A	COSO28514862	615665	cell-line	596704	n	y	n	n	n	primary	n	f	66.0				High	1.97225674375783									Caucasian					
+COSS907064	HT-1080	COSO31355752	824576	cell-line	806782	n	y	n	n	n	primary	n	m	35.0				Stable	1.98557205637439									Caucasian					
+COSS907319	KYSE-270	COSO31494830	824831	cell-line	807039	n	y	n	n	n	primary	n	m	79.0				Stable	2.86672682670369									Japanese					
+COSS1290810	H2461	COSO30105680	1201896	cell-line	1173572	n	y	n	n	n	NS	n	u					Stable	4.69199531566259														
+COSS908468	NCI-H1105	COSO29915333	825980	cell-line	808191	n	y	n	n	n	metastasis	n	m	73.0				Stable	3.24136399230754							lymph node		Caucasian	Current smoker (50_pack_years)				
+COSS1330973	NCI-H2066	COSO29915333	1241449	cell-line	1212271	n	y	n	n	n	NS	n	u					Stable	2.40857574127676														
+COSS908469	NCI-H1436	COSO29915333	825981	cell-line	808192	n	y	n	n	n	metastasis	n	m	39.0				Stable	2.01522335691282							lymph node		Caucasian	Current smoker (75_pack-year)				
+COSS1303901	HCC-33	COSO29915333	1214952	cell-line	1186452	n	y	n	n	n	NS	n	u					Stable	2.88843557971233														
+COSS906823	CCF-STTG1	COSO28245232	824347	cell-line	806552	n	y	n	n	n	primary	n	f	68.0				Stable	3.942855821522									Caucasian					
+COSS924100	22RV1	COSO32054826	840876	cell-line	822656	n	y	n	n	n	primary	n	m					High	2.03909059595268														
+COSS1240173	MDST8	COSO28864826	1151918	cell-line	1124030	n	y	n	n	n	NS	n	u					Stable	3.82824753927608														
+COSS910942	NEC8	COSO36245795	828426	cell-line	810643	n	y	n	n	n	primary	n	m	24.0				Stable	2.99289984926082														
+COSS906999	GCT	COSO31355754	824511	cell-line	806716	n	y	n	n	n	metastasis	n	m	29.0				Stable	2.89251495221525							lung							
+COSS1240144	HCC-366	COSO29915674	1151889	cell-line	1124001	n	y	n	n	n	NS	n	u					Stable	3.44590070557777														
+COSS1330975	NCI-H660	COSO32054826	1241451	cell-line	1212273	n	y	n	n	n	NS	n	u					Stable	3.16680661114304														
+COSS1303896	GA-10	COSO27984797	1214947	cell-line	1186447	n	y	n	n	n	NS	n	u					Stable	3.98914870855336														
+COSS1503373	U-CH2	COSO554510873	1426252	cell-line	1374918	n	y	n	n	n	recurrent	n	f	72.0				Stable	1.78047629557248														
+COSS687820	NCI-H2347	COSO29915674	615980	cell-line	597019	n	y	n	n	n	primary	n	f	54.0				Stable	3.75610867722578									Caucasian	Non smoker				
+COSS687985	DMS-273	COSO29915333	616145	cell-line	597184	n	y	n	n	n	metastasis	n	f	50.0				Stable	2.73227780303959							pleural effusion							
+COSS909777	U-698-M	COSO27984920	827261	cell-line	809477	n	y	n	n	n	primary	n	m	7.0				Stable	2.08380122387229														
+COSS1503366	ESO26	COSO31394862	1426245	cell-line	1374911	n	y	n	n	n	NS	n	u					Stable/Low	1.80987385565667														
+COSS688011	NCI-H2029	COSO29915333	616171	cell-line	597210	n	y	n	n	n	metastasis	n	f	69.0				Stable	1.87525815149695							lymph node		Caucasian	Current smoker				
+COSS1240143	HCC-15	COSO29914830	1151888	cell-line	1124000	n	y	n	n	n	NS	n	u					Stable/Low	1.65919053642129														
+COSS907056	HH	COSO27985042	824568	cell-line	806774	n	y	n	n	n	primary	n	m	61.0				Stable	1.95423032150822									Caucasian					
+COSS687798	NCI-H1623	COSO29915674	615958	cell-line	596997	n	y	n	n	n	metastasis	n	m	58.0				Stable	2.63487673976451							lymph node		Caucasian	Current smoker				
+COSS1290797	DAN-G	COSO29004862	1201884	cell-line	1173560	n	y	n	n	n	NS	n	u					Stable	2.92909773394214														
+COSS905961	COLO-205	COSO28584826	823489	cell-line	805717	n	y	y	n	n	primary	n	m	70.0				Stable	3.25439368809771									Caucasian					
+COSS906869	GCIY	COSO36004826	824392	cell-line	806599	n	y	n	n	n	primary	n	f					Stable	2.65352537595216														
+COSS684055	ES3	COSO28065222	612215	cell-line	593254	n	y	n	n	n	primary	n	m	12.0				Stable	2.12786213795419														
+COSS753607	NCI-H835	COSO29914841	672577	cell-line	653615	n	y	n	n	n	primary	n	f	48.0				Stable	3.3627231173146									Black	Non smoker				
+COSS946372	D-423MG	COSO28245229	862897	cell-line	844372	n	y	n	n	n	primary	n	m					Stable	4.10490672444635														
+COSS906797	647-V	COSO27964881	824321	cell-line	806527	n	y	n	n	n	primary	n	m					Stable	2.50237509933661					II									
+COSS907321	KYSE-510	COSO31414830	824833	cell-line	807041	n	y	n	n	n	primary	n	f	67.0				Stable	3.64699565593331									Japanese					
+COSS910784	A204	COSO28525541	828270	cell-line	810486	n	y	n	n	n	primary	n	f	1.0				Stable	1.97494993380262														
+COSS1480367	OVCA433	COSO30135468	1404026	cell-line	1353598	n	y	n	n	n	NS	n	f					Stable	2.68034394126553														
+COSS907282	KNS-42	COSO28245257	824794	cell-line	807002	n	y	n	n	n	primary	n	m	16.0				Stable	3.07195000700616														
+COSS1240189	NCI-H211	COSO29915333	1151934	cell-line	1124046	n	y	n	n	n	NS	n	u					Stable	1.80194511129365														
+COSS910918	BC-3	COSO27984799	828402	cell-line	810617	n	y	n	n	n	metastasis	n	m	85.0				Stable	2.03063559281183							pleural effusion		Caucasian					
+COSS1298223	LC-1-sq	COSO29914830	1209277	cell-line	1180830	n	y	n	n	n	NS	n	u					Stable	2.35120853448438														
+COSS909754	SW684	COSO31355752	827238	cell-line	809453	n	y	n	n	n	primary	n	m	68.0				Stable	3.21850492068932									Caucasian					
+COSS924111	HO-1-N-1	COSO32325533	840886	cell-line	822666	n	y	n	n	n	primary	n	u					Stable	3.45641067863183														
+COSS753573	KYSE-140	COSO31394862	672543	cell-line	653581	n	y	n	n	n	primary	n	m	54.0				Stable	2.81826617370435									Japanese					
+COSS910401	Ramos-2G6-4C10	COSO27984797	827886	cell-line	810103	n	y	n	n	n	primary	n	m	3.0				Stable	1.93953869889642									Caucasian					
+COSS909248	ONS-76	COSO28245255	826734	cell-line	808945	n	y	n	n	n	primary	n	f	2.0				Stable	3.49309877253142														
+COSS735784	TE-5	COSO31394830	655516	cell-line	636555	n	n	y	n	n	primary	n	f	73.0				Stable	2.96380918735682														
+COSS1240162	JHU-022	COSO29324862	1151907	cell-line	1124019	n	y	n	n	n	NS	n	u					Stable	2.94286474550079														
+COSS925345	NOS-1	COSO28065214	842116	cell-line	823898	n	y	n	n	n	metastasis	n	m	16.0				Stable	2.62050242273729							lung							
+COSS687816	NCI-H2228	COSO29915674	615976	cell-line	597015	n	y	n	n	n	primary	n	u					Stable	3.74353001806184														
+COSS924151	HTC-C3	COSO36284862	840926	cell-line	822706	n	y	n	n	n	primary	n	f	44.0				Stable	2.84707191179617														
+COSS949165	EW-16	COSO28065222	865562	cell-line	846905	n	y	n	n	n	primary	n	u					Stable	1.98530924514247														
+COSS910698	BFTC-909	COSO29644862	828183	cell-line	810399	n	y	n	n	n	primary	n	m	64.0				Stable	3.26286659318175					III				Taiwanese					
+COSS1240147	Hep_3B2_1-7	COSO31314954	1151892	cell-line	1124004	n	y	n	n	n	NS	n	u					Unknown	3.69713604587103														
+COSS905985	SF295	COSO28245257	823513	cell-line	805742	n	y	y	n	n	primary	n	u					Stable	3.06684795695471														
+COSS924104	BCPAP	COSO36286294	840879	cell-line	822659	n	y	n	n	n	primary	n	u					Stable	2.96632971211932														
+COSS687777	Calu-3	COSO29915674	615937	cell-line	596976	n	y	n	n	n	metastasis	n	m	25.0				Stable	2.86177861606091							pleural effusion		Caucasian					
+COSS909769	TGBC1TKB	COSO29244826	827253	cell-line	809468	n	y	n	n	n	metastasis	n	f					Stable	2.86000345184832							lymph node							
+COSS1240174	MFE-319	COSO29024862	1151919	cell-line	1124031	n	y	n	n	n	NS	n	u					Low	1.93198078303414														
+COSS1298219	KP-3	COSO29004862	1209273	cell-line	1180826	n	y	n	n	n	NS	n	u					Stable	2.65616535720359														
+COSS906872	GI-ME-N	COSO27774843	824395	cell-line	806602	n	y	n	n	n	metastasis	n	f	2.0				Stable	3.36449354713693			IV				bone marrow		Caucasian					
+COSS906831	Daudi	COSO27984797	824355	cell-line	806560	n	y	n	n	n	primary	n	m	16.0				Stable/Low	3.90189261629482									Black					
+COSS906838	DG-75	COSO27984797	824362	cell-line	806568	n	y	n	n	n	metastasis	n	m	10.0				High	1.94846645851092							pleural effusion							
+COSS753618	KELLY	COSO27774843	672588	cell-line	653626	n	y	n	n	n	NS	n	u					Stable	1.99443736715471														
+COSS1299067	TASK1	COSO521410967	1210120	cell-line	1181673	n	y	n	n	n	NS	n	u					Stable	2.27706352888614														
+COSS906800	697	COSO27984916	824324	cell-line	806530	n	y	n	n	n	recurrent	n	m	12.0				Stable	1.98303840996529														
+COSS905946	MCF7	COSO28394862	823474	cell-line	805701	n	y	y	n	n	primary	n	u	69.0				Stable	2.97432692648122									Caucasian					
+COSS909758	SW962	COSO36434830	827242	cell-line	809457	n	y	n	n	n	primary	n	f	64.0				Stable	3.45982458060078									Caucasian					
+COSS971777	MZ2-MEL	COSO32666078	887873	cell-line	869140	n	y	n	n	n	primary	n	u					Stable	1.88559780096553														
+COSS910921	A101D	COSO32666078	828405	cell-line	810620	n	y	n	n	n	primary	n	m	56.0				Stable	2.5226668991936									Caucasian					
+COSS687995	NCI-H1048	COSO29915333	616155	cell-line	597194	n	y	n	n	n	metastasis	n	f					Low	2.01006297451007							pleural effusion			Non smoker				
+COSS1298531	PCI-4B	COSO29324862	1209585	cell-line	1181138	n	y	n	n	n	NS	n	u					Stable	3.21883195118903														
+COSS908443	NCI-H520	COSO29914830	825954	cell-line	808165	n	y	n	n	n	primary	n	m					Stable	4.63364010234435														
+COSS907286	HuP-T4	COSO29005278	824798	cell-line	807006	n	y	n	n	n	metastasis	n	m	60.0				Stable	3.34003075903422							ascites		Japanese					
+COSS1290767	CHSA0011	COSO28065220	1201854	cell-line	1173530	n	y	n	n	n	NS	n	u					Stable	1.96762580746269														
+COSS906693	BxPC-3	COSO29005278	824220	cell-line	806449	n	y	n	n	n	primary	n	f	61.0				Stable	2.45789668381906														
+COSS1480360	OV-7	COSO30135797	1404019	cell-line	1353591	n	y	n	n	n	NS	n	f					Stable	1.85357866280194														
+COSS1240153	IGR-37	COSO32666078	1151898	cell-line	1124010	n	y	n	n	n	NS	n	u					Stable	1.66274791442748														
+COSS1290812	H2722	COSO30105680	1201898	cell-line	1173574	n	y	n	n	n	NS	n	u					Stable	3.63939454296856														
+COSS909907	ZR-75-30	COSO28395278	827392	cell-line	809607	n	y	n	n	n	metastasis	n	f	47.0				Stable/Low	3.74066415330271							ascitic fluid		Black					
+COSS1240196	OSC-20	COSO29324862	1151941	cell-line	1124053	n	y	n	n	n	NS	n	u					Stable	2.66548346262126														
+COSS687586	T98G	COSO28245257	615746	cell-line	596785	n	y	n	n	n	primary	n	m	61.0				Stable	2.76244666169835									Caucasian					
+COSS910911	SCC-15	COSO31034830	828395	cell-line	810610	n	y	n	n	n	primary	n	m	55.0				Stable	3.19831684461686														
+COSS909771	THP-1	COSO27984972	827255	cell-line	809470	n	y	n	n	n	primary	n	m	1.0				Stable	2.1256151224107														
+COSS907067	HT-144	COSO32666078	824579	cell-line	806785	n	y	n	n	n	primary	n	m	29.0				Stable	2.66132136440854									Caucasian					
+COSS907042	H4	COSO28245257	824554	cell-line	806759	n	y	n	n	n	primary	n	m	37.0				Stable	3.06626145092444									Caucasian					
+COSS753570	KOSC-2	COSO29324830	672540	cell-line	653578	n	y	n	n	n	primary	n	m	51.0				Stable	2.79122946671526			III											
+COSS908133	MHH-CALL-4	COSO27984920	825645	cell-line	807856	n	y	n	n	n	primary	n	m	10.0				Stable	1.93164946783943														
+COSS724872	SHP-77	COSO29915333	616194	cell-line	597233	n	y	n	n	n	primary	n	m	54.0				Stable	2.01970079326951									Caucasian					
+COSS713885	SBC-1	COSO29915333	639486	cell-line	620525	n	y	n	n	n	primary	n	m	46.0				Stable	3.23410515793304														
+COSS909250	OS-RC-2	COSO29645549	826736	cell-line	808947	n	y	n	n	n	primary	n	m					Stable	2.86582194604425														
+COSS724859	Calu-6	COSO29915674	615938	cell-line	596977	n	y	n	n	n	primary	n	f	61.0				Stable	2.55625569559753									Caucasian					
+COSS905976	UACC-62	COSO32666078	823504	cell-line	805733	n	y	y	n	n	primary	n	u					Stable	1.8849975770087														
+COSS1480372	PEO1	COSO30135468	1404030	cell-line	1353602	n	y	n	n	n	NS	n	f					Stable	1.77314475380737														
+COSS1240193	NCI-H847	COSO29915333	1151938	cell-line	1124050	n	y	n	n	n	NS	n	u					Stable	3.14466381457226														
+COSS906844	DU-4475	COSO28395278	824367	cell-line	806573	n	y	n	n	n	metastasis	n	f	62.0				Stable	3.74435166236753							skin							
+COSS1330948	MOLM-16	COSO27984905	1241424	cell-line	1212246	n	y	n	n	n	NS	n	u					Stable	3.33356344915537														
+COSS1299051	SCaBER	COSO27964830	1210105	cell-line	1181658	n	y	n	n	n	NS	n	u					Stable	3.03704344854788														
+COSS687592	YKG-1	COSO28245257	615752	cell-line	596791	n	y	n	n	n	primary	n	f	53.0				Stable	3.16420193346713														
+COSS905938	HL-60	COSO27984969	823465	cell-line	805693	n	y	y	n	n	primary	n	f	36.0				Stable	1.90713298722798									Caucasian					
+COSS683667	PFSK-1	COSO28245255	611827	cell-line	592866	n	y	n	n	n	primary	n	m	1.8				Stable	3.6579719718278									Caucasian					
+COSS909740	SNU-C2B	COSO28454826	827224	cell-line	809440	n	y	n	n	n	primary	n	f	43.0				Low	2.02917640552907									Asian					
+COSS907069	HuCCT1	COSO27814862	824581	cell-line	806787	n	y	n	n	n	primary	n	u					Stable	3.16372298232481														
+COSS910781	AN3-CA	COSO29024826	828267	cell-line	810483	n	y	n	n	n	metastasis	n	f	55.0				High	2.17090697681233							lymph node		Caucasian					
+COSS905965	SR	COSO27985099	823493	cell-line	805721	n	y	y	n	n	primary	n	m	11.0				Stable	2.10396885107429									Caucasian					
+COSS909263	RCM-1	COSO28664826	826749	cell-line	808960	n	y	n	n	n	primary	n	u					Stable	3.08037351146602														
+COSS1298352	NCI-H2135	COSO29915674	1209406	cell-line	1180959	n	y	n	n	n	NS	n	u					Stable	3.68406606114741														
+COSS1240138	H2869	COSO30105680	1151883	cell-line	1123995	n	y	n	n	n	NS	n	u					Stable	1.6807307487175														
+COSS753559	HCE-4	COSO31394862	672529	cell-line	653567	n	y	n	n	n	primary	n	u					Stable	2.55467648942401														
+COSS908152	MSTO-211H	COSO30106782	825664	cell-line	807875	n	y	n	n	n	primary	n	m	62.0				Stable	3.48918453038225									Caucasian					
+COSS1299069	TMK-1	COSO36004826	1210122	cell-line	1181675	n	y	n	n	n	NS	n	u					Stable	2.66727936411367														
+COSS1330987	P32-ISH	COSO27984797	1241463	cell-line	1212285	n	y	n	n	n	NS	n	u					Stable	1.95324349841385														
+COSS1240167	KYSE-220	COSO31394862	1151912	cell-line	1124024	n	y	n	n	n	NS	n	u					Stable	2.80916761035966														
+COSS687457	SW780	COSO27964862	615617	cell-line	596656	n	y	n	n	n	primary	n	f	80.0				Stable	3.58004640168277					I				Caucasian					
+COSS909704	RT-112	COSO27964881	827190	cell-line	809403	n	y	n	n	n	primary	n	f					Stable	2.01836861622587					II									
+COSS687821	NCI-H2405	COSO29915674	615981	cell-line	597020	n	y	n	n	n	metastasis	n	m	47.0				Stable	3.71413515608766							ascites		Caucasian					
+COSS1240166	KYM-1	COSO28525541	1151911	cell-line	1124023	n	y	n	n	n	NS	n	u					Stable	1.95410638538744														
+COSS949174	NB7	COSO27774843	865570	cell-line	846913	n	y	n	n	n	metastasis	n	m	0.07				Stable	3.03808243509167							adrenal gland							
+COSS753624	CAPAN-1	COSO29005278	672594	cell-line	653632	n	y	n	n	n	metastasis	n	m	40.0				Stable	2.60525664146433							liver		Caucasian					
+COSS910692	COLO-668	COSO29915333	828178	cell-line	810394	n	y	n	n	n	metastasis	n	f	47.0				Stable	3.04288460636476							central nervous system							
+COSS907072	HuO9	COSO28105214	824584	cell-line	806790	n	y	n	n	n	primary	n	f	13.0				Stable	3.08190670677387														
+COSS910922	769-P	COSO29645555	828406	cell-line	810621	n	y	n	n	n	primary	n	f	63.0				Stable/Low	1.96979784951558									Caucasian					
+COSS905979	SN12C	COSO29645549	823507	cell-line	805736	n	y	y	n	n	primary	n	m					Stable	2.83766544406219														
+COSS687815	NCI-H2170	COSO29915674	615975	cell-line	597014	n	y	n	n	n	primary	n	m					Stable	5.47314156480226										Non smoker				
+COSS908124	MEL-HO	COSO32666078	825636	cell-line	807847	n	y	n	n	n	primary	n	f					Stable	3.13066091524938														
+COSS1333003	MCC13	COSO32666047	1243477	cell-line	1214250	n	y	n	n	n	NS	n	u					Unknown	1.96398998671209														
+COSS906820	CHP-212	COSO27774843	824344	cell-line	806549	n	y	n	n	n	primary	n	u					Stable	1.98371020046545														
+COSS1240202	PC-3 [JPC-3]	COSO29914826	1151947	cell-line	1124059	n	y	n	n	n	NS	n	u					Stable															
+COSS906801	BT-20	COSO28394862	824325	cell-line	806531	n	y	n	n	n	primary	n	f	74.0				Stable	2.44508632556281									Caucasian					
+COSS949179	NB1	COSO27774843	865575	cell-line	846918	n	y	n	n	n	primary	n	m	2.0				Stable	1.94022989217832														
+COSS909780	VM-CUB-1	COSO27964881	827264	cell-line	809480	n	y	n	n	n	primary	n	m					Stable	1.8904865213648														
+COSS1290905	HCC1428	COSO28394862	1201991	cell-line	1173667	n	y	n	n	n	NS	n	u					Stable	3.51525816800255														
+COSS924107	CAL-39	COSO36434830	840882	cell-line	822662	n	y	n	n	n	primary	n	f	76.0				Stable	2.53741486128988														
+COSS753546	CP66-MEL	COSO32666078	672516	cell-line	653554	n	y	n	n	n	primary	y	m					Stable	2.08548905761312												Prior chemotherapy		
+COSS1298226	LOU-NH91	COSO29914830	1209280	cell-line	1180833	n	y	n	n	n	NS	n	u					Stable	2.11989131278077														
+COSS1298538	RERF-LC-Sq1	COSO29914830	1209592	cell-line	1181145	n	y	n	n	n	NS	n	u					Stable	2.89178078622228														
+COSS1240157	JHH-2	COSO29824862	1151902	cell-line	1124014	n	y	n	n	n	NS	n	u					Unknown															
+COSS949092	CP67-MEL	COSO32666078	865490	cell-line	846833	n	y	n	n	n	primary	n	u					Stable/Low	1.97207387520053														
+COSS905982	SNB75	COSO28245257	823510	cell-line	805739	n	y	y	n	n	primary	n	u					Stable	2.63630746944556														
+COSS910915	Capan-2	COSO29005278	828399	cell-line	810614	n	y	n	n	n	primary	n	m	56.0				Stable	3.21625801188802									Caucasian					
+COSS906853	EGI-1	COSO27814826	824376	cell-line	806582	n	y	n	n	n	primary	n	m	52.0				Stable	2.80787513825057									Caucasian					
+COSS946363	KP-N-YS	COSO27774843	862888	cell-line	844363	n	y	n	n	n	primary	n	u	4.0				Stable	1.79595951065116														
+COSS910849	NY	COSO28065214	828335	cell-line	810551	n	y	n	n	n	primary	n	u					Stable	3.54003759519473														
+COSS1331025	ROS-50	COSO27984920	1241501	cell-line	1212297	n	y	n	n	n	NS	n	u					Stable	3.50367032416909														
+COSS909713	SH-4	COSO32666078	827199	cell-line	809413	n	y	n	n	n	metastasis	n	f	60.0				Stable	2.29964122284339							pleural effusion		Caucasian					
+COSS909703	RS4-11	COSO279810144	827189	cell-line	809402	n	y	n	n	n	metastasis	n	f	32.0				Low	2.03182553568747							bone marrow		Caucasian					
+COSS905969	OVCAR-5	COSO30134862	823497	cell-line	805726	n	y	y	n	n	primary	n	f					Stable	2.38468328842768														
+COSS907313	KS-1	COSO28245232	824825	cell-line	807033	n	y	n	n	n	primary	n	f					Stable	3.47651143946076														
+COSS1240169	LN-229	COSO28245257	1151914	cell-line	1124026	n	y	n	n	n	NS	n	u					Stable	3.67616843316188														
+COSS1659929	SNU-283	COSO28864826	1574257	cell-line	1512308	n	y	n	n	n	NS	n	u					Stable	3.52531495785699														
+COSS1240121	BICR22	COSO29324862	1151866	cell-line	1123977	n	y	n	n	n	NS	n	u					Stable	1.89791191470954														
+COSS753538	Ca9-22	COSO29324830	672508	cell-line	653546	n	y	n	n	n	primary	n	m					Stable	2.57705684920337									Japanese					
+COSS908483	NCI-H524	COSO29915333	825995	cell-line	808206	n	y	n	n	n	metastasis	n	m	63.0				Stable/Low	2.21643645780203							lymph node		Caucasian	Current smoker (30_pack-years)				
+COSS1295741	AMO-1	COSO27985184	1206820	cell-line	1178376	n	y	n	n	n	NS	n	u					Stable	3.49652991372483														
+COSS907068	HT-3	COSO28514862	824580	cell-line	806786	n	y	n	n	n	primary	n	f	58.0				Stable	2.90474236598625									Caucasian					
+COSS949093	BT-483	COSO28395285	865491	cell-line	846834	n	y	n	n	n	primary	n	f	23.0				Stable	3.84019716355815									Caucasian					
+COSS1297438	COR-L303	COSO29915333	1208492	cell-line	1180046	n	y	n	n	n	NS	n	u					Stable	3.17443664687332														
+COSS1659819	OCI-LY7	COSO27984799	1574148	cell-line	1512199	n	y	n	n	n	NS	n	m	48.0				Stable	1.93572017120965														
+COSS949166	EW-13	COSO28065222	865563	cell-line	846906	n	y	n	n	n	primary	n	u					Stable	1.90776299029054														
+COSS1290806	FU97	COSO36004862	1201892	cell-line	1173568	n	y	n	n	n	NS	n	u					Stable	2.78936439898541														
+COSS687983	DMS-114	COSO29915333	616143	cell-line	597182	n	y	n	n	n	metastasis	n	m	68.0				Stable	2.89336950378451							mediastinum		Caucasian					
+COSS946367	D-247MG	COSO28245229	862891	cell-line	844367	n	y	n	n	n	primary	n	u					Stable	4.12992450050896														
+COSS925346	PANC-03-27	COSO29005278	842117	cell-line	823899	n	y	n	n	n	primary	n	f	65.0				Stable	3.16195641252736									White					
+COSS909905	YH-13	COSO28245232	827390	cell-line	809605	n	y	n	n	n	primary	n	m	40.0				Stable	2.01232175562478														
+COSS753588	LU-134-A	COSO29915333	672558	cell-line	653596	n	y	n	n	n	primary	n	m	80.0				Stable	2.51326932121589														
+COSS907285	HuP-T3	COSO29005278	824797	cell-line	807005	n	y	n	n	n	metastasis	n	m	66.0				Stable	1.80953995824107							ascites		Japanese					
+COSS909744	SW13	COSO37914813	827228	cell-line	809443	n	y	n	n	n	primary	n	f	55.0				Stable	3.10058948774605					IV				Caucasian					
+COSS1240125	COLO-783	COSO32666078	1151870	cell-line	1123981	n	y	n	n	n	NS	n	u					Stable	3.73066952895189														
+COSS1290807	G-292 Clone A141B1	COSO28065214	1201893	cell-line	1173569	n	y	n	n	n	NS	n	u					Stable															
+COSS1240224	VMRC-RCW	COSO29644862	1151969	cell-line	1124081	n	y	n	n	n	NS	n	u					Stable	2.09391637343324														
+COSS906763	BE-13	COSO27984916	824288	cell-line	806493	n	y	n	n	n	primary	n	f	11.0				Stable	3.50550072066927														
+COSS910688	CESS	COSO27984914	828173	cell-line	810389	n	y	n	n	n	primary	n	u					Stable	2.00177213958921														
+COSS907170	IMR-5	COSO27774843	824682	cell-line	806888	n	y	n	n	n	primary	n	u					Stable	2.05320290913561														
+COSS753551	DMS-79	COSO29915333	672521	cell-line	653559	n	y	n	n	n	metastasis	n	u	65.0				Stable	3.44680861541053							pleural effusion		Caucasian					
+COSS905959	SK-OV-3	COSO30134826	823487	cell-line	805714	n	y	y	n	n	primary	n	f	64.0				Low	3.82069047692369									Caucasian					
+COSS753605	NCI-H510A	COSO29915333	672575	cell-line	653613	n	y	n	n	n	metastasis	n	m	56.0				Stable	2.68942464773684							adrenal gland		Caucasian					
+COSS907073	HUTU-80	COSO28974826	824585	cell-line	806791	n	y	n	n	n	primary	n	m	53.0				Stable	1.96088441940095									Caucasian					
+COSS906839	DK-MG	COSO38075232	824363	cell-line	806569	n	y	n	n	n	primary	n	f	67.0				Stable/Low	1.90589545149463														
+COSS909716	SJRH30	COSO28525541	827202	cell-line	809416	n	y	n	n	n	metastasis	n	m	17.0				Stable	4.66488876984582							bone marrow		Caucasian					
+COSS753577	LB1047-RCC	COSO29645555	672547	cell-line	653585	n	y	n	n	n	primary	y	f	49.0				Low	2.45811181825371														
+COSS1240149	Hs633T	COSO31355752	1151894	NS	1124006	n	y	n	n	n	NS	n	u					Unknown															
+COSS753574	KYSE-410	COSO31394862	672544	cell-line	653582	n	y	n	n	n	primary	n	m	51.0				Stable	3.92045782660061									Japanese					
+COSS909742	SU-DHL-1	COSO29096820	827226	cell-line	809441	n	y	n	n	n	metastasis	n	m	10.0				Stable	3.31881420068396							pleural effusion							
+COSS753562	HSC-2	COSO29324830	672532	cell-line	653570	n	y	n	n	n	primary	n	m	69.0				Stable	2.5076365407905														
+COSS749712	HCC1395	COSO28395278	668683	cell-line	649721	n	y	n	n	y	NS	y	f	43.0				Stable	2.69160040916604									Caucasian					
+COSS1330972	NCI-H1876	COSO29915333	1241448	cell-line	1212270	n	y	n	n	n	NS	n	u					Stable	2.41222569439411														
+COSS909697	RF-48	COSO36004826	827183	cell-line	809394	n	y	n	n	n	metastasis	n	m	62.0				Stable	2.04638735080558							peritoneal effusion							
+COSS1290455	OCI-AML3	COSO27984905	1201542	cell-line	1173218	n	y	n	n	n	NS	n	u					Stable	2.05765601245105														
+COSS1298169	KMRC-20	COSO29644862	1209223	cell-line	1180776	n	y	n	n	n	NS	n	u					Stable	3.07337420607258														
+COSS907270	JVM-3	COSO27605045	824782	cell-line	806990	n	y	n	n	n	primary	n	m	73.0				Stable	3.99214166316843														
+COSS924108	CaR-1	COSO28664826	840883	cell-line	822663	n	y	n	n	n	primary	n	u					Stable	2.77320695196017														
+COSS908138	MKN1	COSO36004826	825650	cell-line	807861	n	y	n	n	n	metastasis	n	m	72.0				Stable	2.98294778079045							lymph node							
+COSS905947	786-0	COSO29645555	823475	cell-line	805702	n	y	y	n	n	primary	n	m	58.0				Stable	3.81773320895751									Caucasian					
+COSS949175	NB17	COSO27774843	865571	cell-line	846914	n	y	n	n	n	metastasis	n	f	1.0				Stable	2.97322877448207							bone marrow							
+COSS1240201	PA-TU-8988T	COSO29004862	1151946	cell-line	1124058	n	y	n	n	n	NS	n	u					Stable	2.86054887573472														
+COSS910706	BL-41	COSO27984797	828192	cell-line	810407	n	y	n	n	n	primary	n	m	8.0				Stable	3.10760758153904									Caucasian					
+COSS1240210	RH-41	COSO28525541	1151955	cell-line	1124067	n	y	n	n	n	NS	n	u					Stable	3.13449681679169														
+COSS946359	BT-474	COSO28395278	862885	cell-line	844360	n	y	n	n	n	primary	n	f	60.0				Stable	2.69325672162656														
+COSS1327771	JURL-MK1	COSO27985052	1238266	cell-line	1209265	n	y	n	n	n	NS	n	u					Stable	1.90413924998393														
+COSS907795	LS-513	COSO28454826	825307	cell-line	807518	n	y	n	n	n	primary	n	m	63.0				Stable	2.22105687084813									Caucasian					
+COSS909696	REH	COSO27984920	827182	cell-line	809393	n	y	n	n	n	primary	n	f	15.0				High	1.95354660605149									North African					
+COSS1298216	KP-1N	COSO29004862	1209270	cell-line	1180823	n	y	n	n	n	NS	n	u					Stable	2.52482924091057														
+COSS1674021	SNU-C5	COSO28864826	1587077	cell-line	1524639	n	y	n	n	n	NS	n	f	77.0				High	1.9682082573159														
+COSS998189	LS-180	COSO28864826	915414	cell-line	893337	n	y	n	n	n	NS	n	u					Unknown	1.93259486298479														
+COSS906851	EFM-19	COSO28395278	824374	cell-line	806580	n	y	n	n	n	metastasis	n	f	50.0				Stable	2.83764419942852					II		pleural effusion		Caucasian					
+COSS949162	EW-12	COSO28065222	865559	cell-line	846902	n	y	n	n	n	primary	n	f	16.0				Stable	2.34476748868028														
+COSS906765	ARH-77	COSO27985184	824290	cell-line	806495	n	y	n	n	n	primary	n	f	33.0				Stable	2.00144062933349									Caucasian					
+COSS905977	UACC-257	COSO32666078	823505	cell-line	805734	n	y	y	n	n	primary	n	u					Stable	1.73996564702187														
+COSS905956	SK-MEL-5	COSO33496078	823484	cell-line	805711	n	y	y	n	n	primary	n	f	24.0				Stable	3.31715849592553									Caucasian					
+COSS930298	SKG-IIIa	COSO28514862	847031	cell-line	828643	n	y	n	n	n	primary	n	f					Stable	2.03452038076407														
+COSS908135	MHH-NB-11	COSO27774843	825647	cell-line	807858	n	y	n	n	n	metastasis	n	m	4.0				Stable	2.39527685470708							adrenal gland		White					
+COSS687814	NCI-H2126	COSO29915674	615974	cell-line	597013	n	y	n	n	n	metastasis	y	m	65.0				Stable	3.24043866769186							pleural effusion		Caucasian					
+COSS949156	ES4	COSO28065222	865554	cell-line	846897	n	y	n	n	n	primary	n	m	18.0				Stable	2.235427395879														
+COSS910549	OE33	COSO31475768	828034	cell-line	810251	n	y	n	n	n	primary	n	f	73.0				Stable	3.55024428987038									Caucasian					
+COSS910947	OCI-AML2	COSO27984914	828431	cell-line	810648	n	y	n	n	n	primary	n	m	65.0				Stable	2.09878205557008														
+COSS907269	JVM-2	COSO27605045	824781	cell-line	806989	n	y	n	n	n	primary	n	f	63.0				Stable	2.0103711685801														
+COSS908139	MKN28	COSO36004826	825651	cell-line	807862	n	y	n	n	n	metastasis	n	f	70.0				Stable	4.22060909002087							lymph node							
+COSS1298534	QGP-1	COSO29004862	1209588	cell-line	1181141	n	y	n	n	n	NS	n	u					Stable	3.83685875051264														
+COSS908461	NCI-N87	COSO36004826	825973	cell-line	808183	n	y	n	n	n	metastasis	n	m					Stable	1.81373856519729							liver							
+COSS687600	NCI-H720	COSO29914862	615760	cell-line	596799	n	y	n	n	n	primary	n	u					Stable	2.03488777340076										Non smoker				
+COSS907789	LOUCY	COSO27984908	825301	cell-line	807512	n	y	n	n	n	primary	n	f	38.0				Stable	3.76359492350446														
+COSS910946	S-117	COSO54345226	828430	cell-line	810647	n	y	n	n	n	primary	n	f	47.0				Stable	2.8828754559242														
+COSS1290730	CAL-29	COSO27964881	1201817	cell-line	1173493	n	y	n	n	n	NS	n	u					Stable	2.92928617199513														
+COSS909975	KURAMOCHI	COSO30134883	827460	cell-line	809676	n	y	n	n	n	primary	n	f					Stable	2.61014345688866														
+COSS905960	MDA-MB-231	COSO28394862	823488	cell-line	805716	n	y	y	n	n	primary	n	f	51.0				Stable	2.77728157560966									Caucasian					
+COSS924239	L-363	COSO27985184	841014	cell-line	822796	n	y	n	n	n	NS	n	f	36.0				Stable	2.09416375825781														
+COSS1298145	Hs940-T	COSO32666078	1209199	cell-line	1180752	n	y	n	n	n	NS	n	u					Stable	3.14483434910699														
+COSS753556	EPLC-272H	COSO29914830	672526	cell-line	653564	n	y	n	n	n	primary	n	m	57.0				Stable	3.00835907317218									Caucasian					
+COSS908462	NCI-H2452	COSO30105680	825974	cell-line	808185	n	y	n	n	n	primary	n	m					Stable	3.309633958776										Non smoker				
+COSS1660034	SNU-407	COSO28864826	1574362	cell-line	1512413	n	y	n	n	n	NS	n	u					Low	2.02527262682974														
+COSS910936	DOK	COSO31035544	828420	cell-line	810635	n	y	n	n	n	primary	n	m	57.0				Stable	3.51096270832845										Ex smoker				
+COSS1480362	OV-56	COSO30134862	1404021	cell-line	1353593	n	y	n	n	n	NS	n	f					Stable	3.84024376645389														
+COSS1299070	TOV-112D	COSO30134862	1210123	cell-line	1181676	n	y	n	n	n	NS	n	u					Stable	2.3464277320039														
+COSS910925	A431	COSO32664830	828409	cell-line	810624	n	y	n	n	n	primary	n	f	85.0				Stable	3.30172150967774														
+COSS910710	BV-173	COSO27985064	828196	cell-line	810411	n	y	n	n	n	primary	n	m	45.0				Stable	2.00481130004687														
+COSS684072	SK-ES-1	COSO28065222	612232	cell-line	593271	n	y	n	n	n	NS	n	u					Stable	2.18191885069071														
+COSS687455	RT4	COSO27964862	615615	cell-line	596654	n	y	n	n	n	primary	n	m	63.0				Stable	3.72251265876475									Caucasian					
+COSS1480371	OVK-18	COSO30135463	1404029	cell-line	1353601	n	y	n	n	n	NS	n	f					High	2.06771417709455														
+COSS908149	Mo-T	COSO27989860	825661	cell-line	807872	n	y	n	n	n	primary	n	u					Stable	1.96178396283418														
+COSS753584	LB831-BLC	COSO27964862	672554	cell-line	653592	n	y	n	n	n	primary	y	m	64.0				Stable	3.12496096913052														
+COSS1298215	KON	COSO29324862	1209269	cell-line	1180822	n	y	n	n	n	NS	n	u					Stable	2.65255953704968														
+COSS908472	NCI-H1573	COSO29914826	825984	cell-line	808195	n	y	n	n	n	metastasis	n	f	35.0				Stable	1.66188284463359			IV				soft tissue		Caucasian	Current smoker (15_pack-years)				
+COSS1299052	SCC90	COSO29324862	1210106	cell-line	1181659	n	y	n	n	n	NS	n	u					Stable	3.29199914926872														
+COSS1298157	JIMT-1	COSO28394862	1209211	cell-line	1180764	n	y	n	n	n	NS	n	u					Stable	2.51099308769544														
+COSS753592	LXF-289	COSO29914826	672562	cell-line	653600	n	y	n	n	n	primary	n	m	63.0				Stable	2.87807450860948														
+COSS1659820	Set2	COSO279818349	1574149	cell-line	1512200	n	y	n	n	n	NS	n	f	71.0				Unknown	1.94550481195199														
+COSS1327773	KARPAS-1106P	COSO27984799	1238268	cell-line	1209267	n	y	n	n	n	NS	n	u					Stable	2.09120328983543														
+COSS907274	KARPAS-422	COSO27984818	824786	cell-line	806994	n	y	n	n	n	metastasis	n	f	73.0				Stable	2.08048065123671							pleural effusion							
+COSS910934	A4-Fuk	COSO27984818	828418	cell-line	810633	n	y	n	n	n	metastasis	n	f	52.0				Stable	2.06584932577518							ascites		Japanese					
+COSS910544	RPMI-8866	COSO27985052	828029	cell-line	810246	n	y	n	n	n	primary	n	f	51.0				Stable	2.00858855302777														
+COSS905981	U031	COSO29645549	823509	cell-line	805738	n	y	y	n	n	primary	n	u					Stable	2.21102103456721														
+COSS910861	RL	COSO27984799	828346	cell-line	810561	n	y	n	n	n	metastasis	n	m	52.0				Stable	2.05472242858294							pleural effusion		Caucasian					
+COSS753585	LB996-RCC	COSO29645555	672555	cell-line	653593	n	y	n	n	n	primary	y	m	67.0				Stable	1.99073924306813														
+COSS910910	UACC-812	COSO28395278	828394	cell-line	810609	n	y	n	n	n	primary	n	f	43.0				Stable	2.91158139015087			II		IV									
+COSS687800	NCI-H1650	COSO29915674	615960	cell-line	596999	n	y	n	n	n	metastasis	n	m	27.0				Stable	1.99183189525789			III				lymph node		Caucasian	Current smoker				
+COSS753583	LB771-HNC	COSO29324830	672553	cell-line	653591	n	y	n	n	n	primary	y	m	49.0				Stable	3.04140023097345														
+COSS908130	MFE-296	COSO29024826	825642	cell-line	807853	n	y	n	n	n	primary	n	f	68.0				High	1.96679215488828									Caucasian					
+COSS910554	CW-2	COSO28584862	828039	cell-line	810256	n	y	n	n	n	primary	n	f	55.0				High	1.97431365520461														
+COSS753554	EBC-1	COSO29914830	672524	cell-line	653562	n	y	n	n	n	primary	n	m	69.0				Stable	2.79442289406734														
+COSS909718	SK-CO-1	COSO28584826	827204	cell-line	809418	n	y	n	n	n	metastasis	n	m	65.0				Stable	3.64799065320471							ascites		Caucasian					
+COSS1330950	MOLP-8	COSO27985184	1241426	cell-line	1212248	n	y	n	n	n	NS	n	u					Stable	2.97683287311719														
+COSS906848	ECC10	COSO36006249	824371	cell-line	806577	n	y	n	n	n	metastasis	n	u					Stable	3.58226179045039							liver							
+COSS908470	NCI-H28	COSO30105680	825982	cell-line	808193	n	y	n	n	n	metastasis	n	m	48.0				Stable/Low	3.80037222206976			IV				pleural effusion		Caucasian	Current smoker (29_pack-years)				
+COSS910916	CAL-27	COSO31034830	828400	cell-line	810615	n	y	n	n	n	primary	n	m	56.0				Stable	1.93547084656777									Caucasian					
+COSS1290906	HCC202	COSO28394862	1201992	cell-line	1173668	n	y	n	n	n	NS	n	u					Stable	2.91856622435749														
+COSS909708	SAS	COSO31034830	827194	cell-line	809408	n	y	n	n	n	primary	n	u					Stable	2.90136275923615														
+COSS905957	Hs-578-T	COSO28394862	823485	cell-line	805712	n	y	y	n	n	primary	n	f	74.0				Stable	2.60325783865229									Caucasian					
+COSS687794	NCI-H1437	COSO29915674	615954	cell-line	596993	n	y	n	n	n	metastasis	y	m	60.0				Stable	2.84868854415046							pleural effusion		Caucasian	Current smoker (70_pack_years)				
+COSS910689	COLO-678	COSO28584862	828174	cell-line	810390	n	y	n	n	n	metastasis	n	m	69.0				Stable	2.30668508353168							lymph node							
+COSS910952	CAL-54	COSO29645549	828436	cell-line	810653	n	y	n	n	n	metastasis	n	m	75.0				Stable	2.34508137924063							pleural effusion							
+COSS749711	HCC1187	COSO28395278	668682	cell-line	649720	n	y	n	n	y	primary	y	f	41.0				Stable	2.64413134846232					III				Caucasian					
+COSS907278	KG-1	COSO27984974	824790	cell-line	806998	n	y	n	n	n	primary	n	m	59.0				Stable	1.98569907909905									Caucasian					
+COSS906863	FADU	COSO29504830	824386	cell-line	806593	n	y	n	n	n	primary	n	m	56.0				Stable	2.91987641096124									Caucasian					
+COSS910933	AM-38	COSO28245232	828417	cell-line	810632	n	y	n	n	n	primary	n	m	36.0				Stable	3.23507717893769														
+COSS687807	NCI-H1838	COSO29915674	615967	cell-line	597006	n	y	n	n	n	primary	n	f					Stable	2.74803296089612										Non smoker				
+COSS909781	VMRC-RCZ	COSO29645549	827265	cell-line	809481	n	y	n	n	n	primary	n	u					Stable	1.88772069795502														
+COSS722046	NCI-H2122	COSO29914826	627218	cell-line	608257	n	y	n	n	n	metastasis	y	f	46.0				Stable	2.4714499220299			IV				pleural effusion		Caucasian	Current smoker (30_pack_years)				
+COSS924247	SW954	COSO36434830	841022	cell-line	822807	n	y	n	n	n	primary	n	f	86.0				Stable	1.89177478606965									Caucasian					
+COSS924187	KLE	COSO29024826	840962	cell-line	822742	n	y	n	n	n	primary	n	f	64.0				Stable	2.65335080852076									Caucasian					
+COSS1240145	HCC-44	COSO29914826	1151890	cell-line	1124002	n	y	n	n	n	NS	n	u					Stable	3.01729752705849														
+COSS910546	PSN1	COSO29005278	828031	cell-line	810249	n	y	n	n	n	primary	n	u					Stable	2.7604759552294														
+COSS949154	OMC-1	COSO28514830	865552	cell-line	846895	n	y	n	n	n	primary	n	f	52.0				Stable	3.89036892035574														
+COSS1299061	STS-0421	COSO31374954	1210115	cell-line	1181668	n	y	n	n	n	NS	n	u					Stable	3.63305687237881														
+COSS1331033	SU-DHL-10	COSO27984799	1241509	cell-line	1212331	n	y	n	n	n	NS	n	u					Stable	2.03249620236876														
+COSS905983	U251	COSO28245257	823511	cell-line	805740	n	y	y	n	n	primary	n	u					Stable	2.11920199311221														
+COSS1503365	SK-GT-4	COSO31394862	1426244	cell-line	1374910	n	y	n	n	n	NS	n	u					Stable	2.45453259261172														
+COSS906807	CRO-AP2	COSO27984799	824330	cell-line	806536	n	y	n	n	n	metastasis	n	m	49.0				Stable	2.24616015840517							pleural effusion							
+COSS1480361	OV-17R	COSO30134826	1404020	cell-line	1353592	n	y	n	n	n	NS	n	f					Stable	3.01995014291594														
+COSS924250	MKN7	COSO36006238	841025	cell-line	822810	n	y	n	n	n	primary	n	m	39.0				Stable/Low	3.01677397415441														
+COSS907070	HUH-6-clone5	COSO29825606	824582	cell-line	806788	n	y	n	n	n	primary	n	m	57.0				Stable	3.74007189406016														
+COSS946355	TE-6	COSO31394830	862881	cell-line	844356	n	y	n	n	n	primary	n	u					Stable	2.6117993430865														
+COSS1240132	H2595	COSO30105680	1151877	cell-line	1123988	n	y	n	n	n	NS	n	u					Stable	3.08626848438671														
+COSS1509073	NCC010	COSO29644862	1431939	cell-line	1380534	n	y	n	n	n	primary	n	u					Stable	1.77185620677737														
+COSS909724	SK-MEL-3	COSO32666078	827210	cell-line	809424	n	y	n	n	n	metastasis	n	f	42.0				Stable	3.79341660374863							lymph node							
+COSS749717	HCC38	COSO28395278	668688	cell-line	649726	n	y	n	n	y	NS	y	f	50.0				Stable	1.822823740725			II		III				Caucasian					
+COSS1659817	KMS-11	COSO27985184	1574146	cell-line	1512197	n	y	n	n	n	primary	n	f	67.0				Stable	3.09048983181986									Japanese					
+COSS906815	COLO-741	COSO28584862	824339	cell-line	806544	n	y	n	n	n	metastasis	n	f	69.0				Stable	4.76114814542483							pelvis							
+COSS909729	SK-MG-1	COSO28245229	827215	cell-line	809429	n	y	n	n	n	primary	n	u					Stable	2.61977311795505														
+COSS909759	SW982	COSO31356219	827243	cell-line	809458	n	y	n	n	n	primary	n	f	25.0				Stable	2.04111669004433									Caucasian					
+COSS1240182	NCI-H1836	COSO29915333	1151927	cell-line	1124039	n	y	n	n	n	NS	n	u					Stable/Low	3.15343071948815														
+COSS907796	LU-99A	COSO29916622	825308	cell-line	807519	n	y	n	n	n	primary	n	m	63.0				Stable/Low	2.60659823958907														
+COSS908141	ML-2	COSO27984914	825653	cell-line	807864	n	y	n	n	n	primary	n	m	26.0				Stable	1.97531568024114														
+COSS949168	EW-24	COSO28065222	865565	cell-line	846908	n	y	n	n	n	primary	n	u					Stable	2.33443956922827														
+COSS908482	NCI-H630	COSO28664826	825994	cell-line	808205	n	y	n	n	n	metastasis	n	m	60.0				Low	2.88063501868269							liver			Non smoker				
+COSS909719	SK-HEP-1	COSO29824826	827205	cell-line	809419	n	y	n	n	n	primary	n	m	52.0				Stable	2.80303335252887									Caucasian					
+COSS908460	NCI-H441	COSO29915645	825972	cell-line	808182	n	y	n	n	n	metastasis	n	m					Stable	2.67044785725796							pericardium							
+COSS910924	23132-87	COSO36004826	828408	cell-line	810623	n	y	n	n	n	primary	n	m	72.0				High	2.02613795051455														
+COSS905975	M14	COSO32666078	823503	cell-line	805732	n	y	y	n	n	primary	n	u					Stable	2.88820282143025														
+COSS1298365	OVTOKO	COSO30134862	1209419	cell-line	1180972	n	y	n	n	n	NS	n	u					Stable	3.2576168240638														
+COSS907271	KALS-1	COSO28245257	824783	cell-line	806991	n	y	n	n	n	primary	n	f					Stable	3.05510055366039														
+COSS1659823	SNU-1040	COSO28864826	1574151	cell-line	1512202	n	y	n	n	n	NS	n	u					Stable	3.73764631238573														
+COSS905943	NCI-H460	COSO29915668	823471	cell-line	805698	n	y	y	n	n	primary	n	m					Stable	2.53530375096961														
+COSS910779	IA-LM	COSO29915668	828265	cell-line	810481	n	y	n	n	n	metastasis	n	m	68.0				Stable	2.31124121986291							skin		Japanese					
+COSS925340	MKN45	COSO36004826	842109	cell-line	823892	n	y	n	n	n	metastasis	n	f	62.0				Stable	1.81501073187684														
+COSS722058	NCI-H1734	COSO29914826	627231	cell-line	608270	n	y	n	n	n	NS	n	f	56.0				Stable	2.49266673692283										Non smoker				
+COSS1480358	JHOS-3	COSO30135468	1404017	cell-line	1353589	n	y	n	n	n	NS	n	f					Stable	1.85965155475351														
+COSS1298350	NCI-H1781	COSO29914826	1209404	cell-line	1180957	n	y	n	n	n	NS	n	u					Stable/Low	2.43572706305463														
+COSS910704	AU565	COSO28394862	828189	cell-line	810405	n	y	n	n	n	metastasis	n	f	43.0				Stable	3.6141695613138							pleural effusion		White					
+COSS1298146	huH-1	COSO29824862	1209200	cell-line	1180753	n	y	n	n	n	NS	n	u					Stable	2.96043615885639														
+COSS906814	COLO-792	COSO32666078	824338	cell-line	806543	n	y	n	n	n	metastasis	n	m	62.0				Stable	3.60923746292311							central nervous system							
+COSS909750	SW1783	COSO28245239	827234	cell-line	809449	n	y	n	n	n	primary	n	m	68.0				Stable/Low	5.26272635894644									Caucasian					
+COSS908447	NH-12	COSO27774843	825958	cell-line	808169	n	y	n	n	n	primary	n	m	1.25				Stable	1.97533331782294														
+COSS1331036	SU-DHL-5	COSO27984799	1241512	cell-line	1212334	n	y	n	n	n	NS	n	u					Stable	3.86849370497049														
+COSS909779	UMC-11	COSO29914841	827263	cell-line	809479	n	y	n	n	n	primary	n	u					Stable	2.32336718204561														
+COSS688018	NCI-H2227	COSO29915333	616178	cell-line	597217	n	y	n	n	n	primary	n	m	54.0				Stable	2.50887944873312									Caucasian	Current smoker (70_pack_years)				
+COSS1322218	Hs-445	COSO27985700	1233105	cell-line	1204233	n	y	n	n	n	NS	n	u					Stable	2.03510373301301														
+COSS907046	HCC1569	COSO28394862	824558	cell-line	806763	n	y	n	n	n	primary	n	f	70.0				High	2.94846972486863			IV		III				Black					
+COSS1297449	Farage	COSO27984799	1208503	cell-line	1180057	n	y	n	n	n	NS	n	u					Stable/Low	1.97527697358137														
+COSS906837	Detroit562	COSO31964862	824361	cell-line	806567	n	y	n	n	n	metastasis	n	f					Stable	2.85583504751078							pleural effusion		Caucasian					
+COSS1240159	JHH-6	COSO29824862	1151904	cell-line	1124016	n	y	n	n	n	NS	n	u					Stable	3.04964331724946														
+COSS724825	NCI-H929	COSO27985184	611826	cell-line	592865	n	y	n	n	n	NS	n	u					Stable	1.89915278758291														
+COSS910569	COLO-320-HSR	COSO28584826	828054	cell-line	810270	n	y	n	n	n	primary	n	m	55.0				Stable	2.27026930579746									Caucasian					
+COSS1323913	NB-4	COSO27984969	1234410	cell-line	1205424	n	y	n	n	n	NS	n	f	23.0				Stable	3.41160463543207														
+COSS713878	LU-139	COSO29915333	639479	cell-line	620518	n	y	n	n	n	primary	n	m	63.0				Stable	2.91619069980699														
+COSS909720	SK-LMS-1	COSO54265226	827206	cell-line	809420	n	y	n	n	n	primary	n	f	43.0				Stable	2.13184640379453									Caucasian					
+COSS1240208	PL18	COSO29004862	1151953	cell-line	1124065	n	y	n	n	n	NS	n	u					Stable	5.91087051595795														
+COSS1240212	SISO	COSO28514862	1151957	cell-line	1124069	n	y	n	n	n	NS	n	u					Stable	2.6267366431766														
+COSS907045	HCC1419	COSO28395278	824557	cell-line	806762	n	y	n	n	n	primary	n	f	42.0				Stable	3.55541041304414			III		III				Hispanic					
+COSS906864	FTC-133	COSO36286317	824387	cell-line	806594	n	y	n	n	n	metastasis	n	m	42.0				Stable	2.08458217445857							lymph node							
+COSS753558	HA7-RCC	COSO29645555	672528	cell-line	653566	n	y	n	n	n	primary	y	m					Stable	3.66204180576931														
+COSS908121	MDA-MB-361	COSO28394862	825633	cell-line	807844	n	y	n	n	n	metastasis	n	f	40.0				Stable	2.65478778068543							central nervous system		Caucasian					
+COSS907065	HT-1197	COSO27964881	824577	cell-line	806783	n	y	n	n	n	primary	n	m	44.0				Stable	3.21999041159303					IV				Caucasian					
+COSS907277	KE-37	COSO27984916	824789	cell-line	806997	n	y	n	n	n	primary	n	m	27.0				Stable	1.97931072425016														
+COSS946357	TC-YIK	COSO28515333	862883	cell-line	844358	n	y	n	n	n	primary	n	f	31.0				Stable	2.14828044031415														
+COSS949090	Caov-4	COSO30134826	865489	cell-line	846832	n	y	n	n	n	metastasis	n	f	45.0				Stable	4.63996684541004									Caucasian					
+COSS1322212	COR-L32	COSO29915333	1233099	cell-line	1204227	n	y	n	n	n	NS	n	u					Stable	2.73826886354724														
+COSS753541	CAL-33	COSO29324830	672511	cell-line	653549	n	y	n	n	n	primary	n	m	69.0				Stable	2.08886596263065														
+COSS1298358	OCUM-1	COSO36004862	1209412	cell-line	1180965	n	y	n	n	n	NS	n	u					Stable/Low	2.29751686827988														
+COSS753581	LB373-MEL-D	COSO32666078	672551	cell-line	653589	n	y	n	n	n	primary	y	f	32.0				Stable	3.23965021675011												No prior chemotherapy		
+COSS909735	SNG-M	COSO29024826	827219	cell-line	809435	n	y	n	n	n	metastasis	n	f	52.0				High	1.9784991522346							lymph node							
+COSS1322224	HSC-39	COSO36004862	1233111	cell-line	1204239	n	y	n	n	n	NS	n	u					Stable	2.97555490086405														
+COSS1240178	ML-1	COSO36284862	1151923	cell-line	1124035	n	y	n	n	n	NS	n	u					Stable	1.71074770362486														
+COSS905974	LOXIMVI	COSO32666078	823502	cell-line	805731	n	y	y	n	n	primary	n	u					Stable	3.16431203183021														
+COSS1330960	MY-M12	COSO27984903	1241436	cell-line	1212258	n	y	n	n	n	NS	n	u					Stable	1.97562558773872														
+COSS1290798	EFM-192A	COSO28394862	1201885	cell-line	1173561	n	y	n	n	n	NS	n	u					Stable	3.1489100106057														
+COSS687562	8-MG-BA	COSO28245257	615722	cell-line	596761	n	y	n	n	n	primary	n	f	54.0				Stable	2.19748478665822									African American					
+COSS1298136	HPAC	COSO29004862	1209190	cell-line	1180743	n	y	n	n	n	NS	n	u					Stable	2.74092081287516														
+COSS908473	NCI-H1666	COSO29915645	825985	cell-line	808196	n	y	n	n	n	metastasis	n	f	50.0				Stable	2.95784003181553			III				pleural effusion		Caucasian	Non smoker				
+COSS1240191	NCI-H647	COSO29915674	1151936	cell-line	1124048	n	y	n	n	n	NS	n	u					Stable	3.17418742969605														
+COSS924102	8505C	COSO36286315	840878	cell-line	822658	n	y	n	n	n	primary	n	f	78.0				Stable	3.000859436539														
+COSS907291	GP5d	COSO28584826	824803	cell-line	807011	n	y	n	n	n	primary	n	f	71.0				Low	1.99041690564804														
+COSS713869	VMRC-LCD	COSO29914826	639470	cell-line	620509	n	y	n	n	n	NS	n	u					Stable	2.404999843498														
+COSS753615	U-266	COSO27985184	672585	cell-line	653623	n	y	n	n	n	primary	n	m	53.0				Stable	2.00716216472954														
+COSS1298475	PANC-02-03	COSO29004862	1209529	cell-line	1181082	n	y	n	n	n	NS	n	u					Stable	3.2382743454233														
+COSS905954	SK-MEL-28	COSO32666078	823482	cell-line	805709	n	y	y	n	n	primary	n	m	51.0				Stable	3.92610178910531														
+COSS906834	D-283MED	COSO36715255	824358	cell-line	806564	n	y	n	n	n	metastasis	n	m	6.0				Stable	1.99418049917241							peritoneum							
+COSS1298537	RERF-LC-KJ	COSO29914826	1209591	cell-line	1181144	n	y	n	n	n	NS	n	u					Stable	2.72044545217577														
+COSS910951	CML-T1	COSO27985064	828435	cell-line	810652	n	y	n	n	n	primary	n	f	36.0				Stable/Low	1.9645275999364														
+COSS906842	DOHH-2	COSO27984818	824365	cell-line	806571	n	y	n	n	n	metastasis	n	m	60.0				Stable	1.9978779428979														
+COSS909736	SNU-387	COSO29825606	827220	cell-line	809436	n	y	n	n	n	primary	n	f	41.0				Stable	2.90043865155523			IV		IV				Korean					
+COSS1330993	PWR-1E	COSO32054886	1241469	cell-line	1212291	n	y	n	n	n	NS	n	u					Stable	2.39998035137368														
+COSS1327768	JM1	COSO27984799	1238263	cell-line	1209262	n	y	n	n	n	NS	n	u					Stable	2.27272506451384														
+COSS910697	A388	COSO32664830	828182	cell-line	810398	n	y	n	n	n	metastasis	n	m	86.0				Stable	2.03150993531267							lymph node							
+COSS907276	KATOIII	COSO36004826	824788	cell-line	806996	n	y	n	n	n	metastasis	n	m	55.0				Stable	3.58408510195002							pleural effusion		Mongoloid					
+COSS688026	NCI-H64	COSO29915333	616186	cell-line	597225	n	y	n	n	n	primary	n	u					Stable	3.5687544959316														
+COSS1298144	Hs939-T	COSO32666078	1209198	cell-line	1180751	n	y	n	n	n	NS	n	u					Stable	1.94164210988995														
+COSS930081	RERF-LC-FM	COSO29915333	846814	cell-line	828426	n	y	n	n	n	metastasis	n	u					Stable	3.50510029225999							pleural effusion							
+COSS724870	MIA-PaCa-2	COSO29005278	616274	cell-line	597313	n	y	n	n	n	primary	n	m	65.0				Stable	2.76024290452912									Caucasian					
+COSS906836	DEL	COSO27985099	824360	cell-line	806566	n	y	n	n	n	metastasis	n	m	12.0				Stable	3.2326368048626							pleural effusion							
+COSS910853	CHL-1	COSO32666078	828339	cell-line	810556	n	y	n	n	n	primary	n	u					Stable	3.49065097509891														
+COSS906855	EM-2	COSO27985064	824378	cell-line	806584	n	y	n	n	n	primary	n	f	5.0				Stable	3.41684522225466									Caucasian					
+COSS909262	Raji	COSO27984797	826748	cell-line	808959	n	y	n	n	n	primary	n	m	11.0				Stable	1.97607192279317									Black					
+COSS907175	JAR	COSO32025993	824687	cell-line	806895	n	y	n	n	n	primary	n	f	24.0				Stable	3.02822479501301									Caucasian					
+COSS910694	LN-405	COSO28245232	828179	cell-line	810395	n	y	n	n	n	primary	n	f	62.0				Stable	4.77981720315846														
+COSS688006	NCI-H1694	COSO29915333	616166	cell-line	597205	n	y	n	n	n	metastasis	n	m	61.0				Stable	2.40329575155922							ascites		Caucasian	Non smoker				
+COSS687596	ChaGo-K-1	COSO29914862	615756	cell-line	596795	n	y	n	n	n	primary	n	m	45.0				Stable	2.13539469019688														
+COSS724866	NCI-H1355	COSO29915674	615952	cell-line	596991	n	y	n	n	n	metastasis	n	m	53.0				Stable	2.30448560462508			IV				pleural effusion		Caucasian					
+COSS907176	JEG-3	COSO32025993	824688	cell-line	806896	n	y	n	n	n	primary	n	f					Stable	3.19534384949188														
+COSS1331032	SLVL	COSO27984799	1241508	cell-line	1212330	n	y	n	n	n	NS	n	u					Stable	3.50526223438076														
+COSS687514	ME-180	COSO28514862	615674	cell-line	596713	n	y	n	n	n	metastasis	n	f	66.0				Stable	2.67384791302789							omentum		Caucasian					
+COSS946377	D-566MG	COSO28245229	862900	cell-line	844375	n	y	n	n	n	primary	n	u					Stable	3.40623438897378														
+COSS906803	ACN	COSO27774843	824326	cell-line	806532	n	y	n	n	n	primary	n	u					Stable	3.80693810502948														
+COSS724855	NCI-H727	COSO29914862	615761	cell-line	596800	n	y	n	n	n	primary	n	f	65.0				Stable	2.64602159743989									Caucasian					
+COSS907788	LNCaP-Clone-FGC	COSO32054826	825300	cell-line	807511	n	y	n	n	n	metastasis	n	m	50.0				High	3.77648116633015							lymph node		Caucasian					
+COSS930082	RL95-2	COSO29025473	846815	cell-line	828427	n	y	n	n	n	primary	n	f	65.0				High	2.02191945527112									Caucasian					
+COSS1524415	RCC-JF	COSO29645555	1446784	cell-line	1394552	n	y	n	n	n	primary	n	f	65.0				Stable	1.94287178679027									Caucasian					
+COSS907057	HLE	COSO29825606	824569	cell-line	806775	n	y	n	n	n	primary	n	m	68.0				Stable	2.64668964546652														
+COSS1330942	ME-1	COSO27984905	1241418	cell-line	1212240	n	y	n	n	n	NS	n	u					Stable	2.03221890809643														
+COSS906870	GDM-1	COSO27984914	824393	cell-line	806600	n	y	n	n	n	primary	n	f	66.0				Stable	2.05196335577815														
+COSS909753	SW626	COSO30134826	827237	cell-line	809452	n	y	n	n	n	primary	n	f	46.0				Stable	3.21982697970005					III				Caucasian					
+COSS906862	EVSA-T	COSO28394862	824385	cell-line	806592	n	y	n	n	n	metastasis	n	f					Stable	2.8390336515863							ascitic fluid							
+COSS1327774	KARPAS-231	COSO27984920	1238269	cell-line	1209268	n	y	n	n	n	NS	n	u					Stable	2.05208629581074														
+COSS1503361	FLO-1	COSO31394862	1426240	cell-line	1374906	n	y	n	n	n	NS	n	u					Stable	1.90716357108641														
+COSS910944	ALL-PO	COSO27984916	828428	cell-line	810645	n	y	n	n	n	metastasis	n	f	0.33				Stable	2.52281697512878							bone marrow							
+COSS1240141	H513	COSO30105680	1151886	cell-line	1123998	n	y	n	n	n	NS	n	u					Stable	2.92808738217383														
+COSS724812	T-24	COSO27964862	615618	cell-line	596657	n	y	n	n	n	primary	n	f	81.0				Stable	3.53505353151847									Caucasian					
+COSS1290813	H2795	COSO30105680	1201899	cell-line	1173575	n	y	n	n	n	NS	n	u					Stable	1.93688722312284														
+COSS909738	SNU-449	COSO29825606	827222	cell-line	809438	n	y	n	n	n	primary	n	m	52.0				Stable	2.4442099480958			IV		III				Korean					
+COSS1503363	OACM5-1	COSO31394862	1426242	cell-line	1374908	n	y	n	n	n	NS	n	u					Stable	1.92104767430608														
+COSS910687	ATN-1	COSO27984908	828172	cell-line	810388	n	y	n	n	n	primary	n	m	47.0				Stable	3.90268959562985														
+COSS908145	MOG-G-UVW	COSO28245229	825657	cell-line	807868	n	y	n	n	n	primary	n	u					Stable	3.58641146554605														
+COSS949164	EW-18	COSO28065222	865561	cell-line	846904	n	y	n	n	n	primary	n	u					Stable	2.39607478920586														
+COSS753566	J82	COSO27964862	672536	cell-line	653574	n	y	n	n	n	NS	y	u					Stable	3.63117050418536														
+COSS908454	NTERA-2 cl.D1	COSO36245795	825965	cell-line	808176	n	y	n	n	n	metastasis	n	m	22.0				Stable								lung		Caucasian					
+COSS924241	NCI-H250	COSO29915333	841016	cell-line	822799	n	y	n	n	n	metastasis	n	m	34.0				Stable/Low	2.69825684091164							central nervous system		Black	Non smoker				
+COSS906791	ABC-1	COSO29914826	824315	cell-line	806521	n	y	n	n	n	primary	n	m	47.0				Stable	2.38771058414352														
+COSS1240160	JHH-7	COSO29824862	1151905	cell-line	1124017	n	y	n	n	n	NS	n	u					Stable	2.98350740364621														
+COSS1240170	LNZTA3WT4	COSO28245257	1151915	cell-line	1124027	n	y	n	n	n	NS	n	u					Stable	3.29043679535302														
+COSS1295740	ALL-SIL	COSO27984908	1206819	cell-line	1178375	n	y	n	n	n	NS	n	u					Stable	2.0482707198362														
+COSS906852	EFO-27	COSO30135770	824375	cell-line	806581	n	y	n	n	n	metastasis	n	f	36.0				High	2.00949851565634							omentum							
+COSS1299073	UDSCC2	COSO29324830	1210126	cell-line	1181679	n	y	n	n	n	NS	n	u					Unknown	2.74933836510591														
+COSS907048	HCC70	COSO28395278	824560	cell-line	806765	n	y	n	n	n	primary	n	f	49.0				Stable	4.24338942034861			III		III				Black					
+COSS906873	GMS-10	COSO28245232	824396	cell-line	806603	n	y	n	n	n	primary	n	m	49.0				Stable	3.02142101588596														
+COSS908455	NUGC-3	COSO36004826	825966	cell-line	808177	n	y	n	n	n	primary	n	m	72.0				Low	2.42820552195926														
+COSS687802	NCI-H1693	COSO29915674	615962	cell-line	597001	n	y	n	n	n	metastasis	n	f	55.0				Stable	2.73016932671942							lymph node		Caucasian	Current smoker				
+COSS1503368	KYAE-1	COSO31394862	1426247	cell-line	1374913	n	y	n	n	n	NS	n	u					Stable	3.18287716016699														
+COSS753575	KYSE-520	COSO31394862	672545	cell-line	653583	n	y	n	n	n	primary	n	f	58.0				Stable	2.69234038768557									Japanese					
+COSS906875	GOTO	COSO27774843	824398	cell-line	806605	n	y	n	n	n	primary	n	u					Stable	2.02044226742019														
+COSS911905	EFO-21	COSO30135468	829398	cell-line	811547	n	y	n	n	n	metastasis	n	f	56.0				Stable	2.85049056753258							ascitic fluid		Caucasian					
+COSS907790	LoVo	COSO28584826	825302	cell-line	807513	n	y	n	n	n	primary	n	m	56.0				Low	2.12330326196825														
+COSS906835	DBTRG-05MG	COSO28245232	824359	cell-line	806565	n	y	n	n	n	primary	n	f	59.0				Stable	3.75001660790661									Caucasian					
+COSS908440	NB69	COSO27774843	825951	cell-line	808030	n	y	n	n	n	primary	n	m	1.3				Stable	4.21270948463365														
+COSS909977	HuO-3N1	COSO28065214	827462	cell-line	809678	n	y	n	n	n	primary	n	f	15.0				Stable	3.52824946954631														
+COSS749713	HCC1599	COSO28395278	668684	cell-line	649722	n	y	n	n	y	primary	y	f	44.0				Stable	2.99507852824738					III				Caucasian					
+COSS946368	D-263MG	COSO28245229	862892	cell-line	844368	n	y	n	n	n	primary	n	u					Stable	3.19438156640069														
+COSS753596	MZ7-mel	COSO32666078	672566	cell-line	653604	n	y	n	n	n	metastasis	y	f					Stable	2.17167755320397							spleen					Prior chemotherapy		
+COSS907320	KYSE-450	COSO31494830	824832	cell-line	807040	n	y	n	n	n	primary	n	m	59.0				Stable	2.26738989871719									Japanese					
+COSS724863	LU-65	COSO29915674	615948	cell-line	596987	n	y	n	n	n	primary	n	m	64.0				Stable	4.43111928276792														
+COSS1503364	SK-GT-2	COSO36004862	1426243	cell-line	1374909	n	y	n	n	n	NS	n	u					Stable	2.37699782084562														
+COSS1480374	UWB1.289	COSO30135797	1404032	cell-line	1353604	n	y	n	n	n	NS	n	f					Stable															
+COSS687561	42-MG-BA	COSO28245257	615721	cell-line	596760	n	y	n	n	n	NS	n	u					Stable	3.83374432464122														
+COSS1660036	SNU-81	COSO28864826	1574364	cell-line	1512415	n	y	n	n	n	NS	n	u					Stable	1.95005985130816														
+COSS906696	BHT-101	COSO36286315	824222	cell-line	806451	n	y	n	n	n	metastasis	n	f	63.0				Stable	4.26497628701208							lymph node							
+COSS688013	NCI-H209	COSO29915333	616173	cell-line	597212	y	y	n	n	n	metastasis	y	m					Stable	3.94345462079364							bone marrow		Caucasian					
+COSS906861	ETK-1	COSO27814826	824384	cell-line	806591	n	y	n	n	n	primary	n	f					Stable	2.84862725848849														
+COSS1240127	EN	COSO29024862	1151872	cell-line	1123983	n	y	n	n	n	NS	n	u					Stable/Low	3.68157141188899														
+COSS1298156	JHU-029	COSO29324862	1209210	cell-line	1180763	n	y	n	n	n	NS	n	u					Stable	2.23407632715029														
+COSS1331035	SU-DHL-4	COSO27984799	1241511	cell-line	1212333	n	y	n	n	n	NS	n	u					Stable	2.13001677389477														
+COSS908444	NCI-SNU-1	COSO36004826	825955	cell-line	808166	n	y	n	n	n	primary	n	m	44.0				High	1.97048593641693									Korean					
+COSS908150	MPP-89	COSO30105680	825662	cell-line	807873	n	y	n	n	n	metastasis	n	m	67.0				Stable	2.30148844604382							pleural effusion							
+COSS753549	D-542MG	COSO28245257	672519	cell-line	653557	n	y	n	n	n	primary	y	u					Stable	4.41106738288793														
+COSS907300	KY821	COSO27984903	824812	cell-line	807020	n	y	n	n	n	primary	n	m	28.0				Stable	3.8365194598851														
+COSS909770	TGBC11TKB	COSO36004826	827254	cell-line	809469	n	y	n	n	n	metastasis	n	f	72.0				High	1.97431057421209							lymph node							
+COSS910900	NCI-H1651	COSO29914826	828385	cell-line	810600	n	y	n	n	n	primary	n	m	71.0				Stable	2.90544650545095										Non smoker				
+COSS909706	RVH-421	COSO32666078	827192	cell-line	809406	n	y	n	n	n	metastasis	n	m	28.0				Stable	3.02217516364927							central nervous system		European					
+COSS1327775	KARPAS-620	COSO27985184	1238270	cell-line	1209269	n	y	n	n	n	NS	n	u					Stable	2.8938986866972														
+COSS1290808	H2369	COSO30105680	1201894	cell-line	1173570	n	y	n	n	n	NS	n	u					Stable	3.57330134038474														
+COSS1240204	PCI-15A	COSO29324862	1151949	cell-line	1124061	n	y	n	n	n	NS	n	u					Stable	3.71675960908065														
+COSS687452	5637	COSO27964862	615612	cell-line	596651	n	y	n	n	n	primary	n	m	68.0				Stable	2.98881924556528					II				Caucasian					
+COSS907318	KYSE-180	COSO31494830	824830	cell-line	807038	n	y	n	n	n	primary	n	m	53.0				Stable	2.60405695183355									Japanese					
+COSS1240215	SKN	COSO35945393	1151960	cell-line	1124072	n	y	n	n	n	NS	n	u					Stable	2.60365413473126														
+COSS1331045	TK	COSO27984799	1241521	cell-line	1212343	n	y	n	n	n	NS	n	u					Stable	2.98798655526712														
+COSS906827	CAL-72	COSO28066610	824351	cell-line	806556	n	y	n	n	n	primary	n	m	10.0				Stable/Low	2.36235602470931														
+COSS684059	ES7	COSO28065222	612219	cell-line	593258	n	y	n	n	n	primary	n	m	15.0				Stable	3.14956449070032														
+COSS753547	CPC-N	COSO29915333	672517	cell-line	653555	n	y	n	n	n	metastasis	n	u					Stable	2.06979394488373							pleural effusion							
+COSS687787	LK-2	COSO29915674	615947	cell-line	596986	n	y	n	n	n	primary	n	m	74.0				Stable	2.68877953969886														
+COSS946360	OAW-28	COSO30134862	862886	cell-line	844361	n	y	n	n	n	primary	n	f					Stable	2.28332880964532														
+COSS1298349	NCI-H1688	COSO29915333	1209403	cell-line	1180956	n	y	n	n	n	NS	n	u					Stable	2.73290295369115														
+COSS909723	SK-MEL-1	COSO32666078	827209	cell-line	809423	n	y	n	n	n	primary	n	m	29.0				Stable	3.49305333576785									Caucasian					
+COSS907281	KMS-12-BM	COSO27985184	824793	cell-line	807001	n	y	n	n	n	primary	n	f	64.0				Stable	3.41058521830408														
+COSS949157	ES6	COSO28065222	865555	cell-line	846898	n	y	n	n	n	primary	n	m	17.0				Stable	3.22562321682479														
+COSS906695	BONNA-12	COSO27989860	824221	cell-line	806450	n	y	n	n	n	primary	n	m	46.0				Stable	2.03884183010868														
+COSS909727	SK-MEL-31	COSO32666078	827213	cell-line	809427	n	y	n	n	n	metastasis	n	f					Stable	3.36389184974861							axillary lymph node							
+COSS1290725	BICR31	COSO29324862	1201812	cell-line	1173488	n	y	n	n	n	NS	n	u					Stable	2.93595712000578														
+COSS910566	CMK	COSO27984952	828051	cell-line	810267	n	y	n	n	n	primary	n	m	0.8				Stable	3.70412243408429														
+COSS1240181	NB(TU)1-10	COSO27774843	1151926	cell-line	1124038	n	y	n	n	n	NS	n	u					Stable	3.00047375882356														
+COSS906826	CAL-120	COSO28394862	824350	cell-line	806555	n	y	n	n	n	metastasis	n	f	43.0				Stable	3.19769621651375							pleural effusion							
+COSS908459	NCI-H596	COSO29915473	825971	cell-line	808181	n	y	n	n	n	primary	n	m	73.0				Stable	2.98964055113089									Caucasian					
+COSS925348	PANC-10-05	COSO29005278	842119	cell-line	823901	n	y	n	n	n	primary	n	m					Stable	1.7148770825258									White					
+COSS753594	MS-1	COSO29915333	672564	cell-line	653602	n	y	n	n	n	primary	n	u					Stable	2.09384829305481														
+COSS908142	MLMA	COSO27989860	825654	cell-line	807865	n	y	n	n	n	metastasis	n	f	32.0				Stable	2.01852263262815							peritoneal effusion							
+COSS909974	RCC10RGB	COSO29645549	827459	cell-line	809675	n	y	n	n	n	primary	n	m					Stable	1.7391433567604									Japanese					
+COSS753578	LB2241-RCC	COSO29645555	672548	cell-line	653586	n	y	n	n	n	primary	y	m					Stable	2.57056333679012														
+COSS753595	MZ1-PC	COSO29005278	672565	cell-line	653603	n	y	n	n	n	NS	y	u					Stable	4.0052400147561														
+COSS946353	TE-9	COSO31394830	862879	cell-line	844354	n	y	n	n	n	primary	n	u					Stable	2.95194509613904														
+COSS910937	COR-L279	COSO29915333	828421	cell-line	810636	n	y	n	n	n	metastasis	n	m	63.0				Stable	3.21190021585055							lymph node							
+COSS1240129	FU-OV-1	COSO30134862	1151874	cell-line	1123985	n	y	n	n	n	NS	n	u					Stable	2.82034380451307														
+COSS909257	OC-314	COSO30135833	826743	cell-line	808954	n	y	n	n	n	metastasis	n	f	39.0				High	2.92870531937599			III		III		ascitic fluid							
+COSS753555	EC-GI-10	COSO31394862	672525	cell-line	653563	n	y	n	n	n	primary	n	m	65.0				Stable	3.4610509259791														
+COSS753548	CTV-1	COSO27985184	672518	cell-line	653556	n	y	n	n	n	primary	n	f	40.0				High	2.00844325131417														
+COSS906846	EB2	COSO27984797	824369	cell-line	806575	n	y	n	n	n	primary	n	f	7.0				Stable/Low	3.57745556310968									Black					
+COSS688001	NCI-H1417	COSO29915333	616161	cell-line	597200	n	y	n	n	n	primary	n	f	61.0				Stable	3.3070169459561									Caucasian	Current smoker				
+COSS908146	MOLT-13	COSO27984908	825658	cell-line	807869	n	y	n	n	n	primary	n	f	2.0				High	1.97391009800595														
+COSS753608	PC-14	COSO29914826	672578	cell-line	653616	n	y	n	n	n	primary	n	u					Stable	3.14226569727158														
+COSS909264	RD	COSO28525343	826750	cell-line	808961	n	y	n	n	n	primary	n	f	7.0				Stable	2.16721175173861									Caucasian					
+COSS910899	NCI-H146	COSO29915333	828384	cell-line	810599	n	y	n	n	n	metastasis	n	m	59.0				Stable	2.92122734088397							bone marrow		Caucasian					
+COSS909774	TYK-nu	COSO30134883	827258	cell-line	809473	n	y	n	n	n	primary	n	f					Stable	2.35610042179416														
+COSS1240139	H290	COSO30105680	1151884	cell-line	1123996	n	y	n	n	n	NS	n	u					Stable	3.10326560617087														
+COSS1240150	Hs683	COSO28245257	1151895	cell-line	1124007	n	y	n	n	n	NS	n	u					Stable	1.87973529905839														
+COSS906824	Ca-Ski	COSO28514830	824348	cell-line	806553	n	y	n	n	n	metastasis	n	f	40.0				Stable	3.22619112068214							intraabdominal		Caucasian					
+COSS910906	ST486	COSO27984797	828390	cell-line	810605	n	y	n	n	n	metastasis	n	f					Stable	2.0783568107567							ascites							
+COSS909707	Saos-2	COSO28065214	827193	cell-line	809407	n	y	n	n	n	primary	n	f	11.0				Stable	2.5938343831166									Caucasian					
+COSS906841	DJM-1	COSO326610132	824364	cell-line	806570	n	y	n	n	n	primary	n	f	87.0				Stable	1.95658030086357														
+COSS1240161	JHU-011	COSO29324862	1151906	cell-line	1124018	n	y	n	n	n	NS	n	u					Stable	3.27587905385009														
+COSS688007	NCI-H187	COSO29915333	616167	cell-line	597206	n	y	n	n	n	metastasis	n	m	47.0				Stable	2.96995669832537							pleural effusion		Caucasian					
+COSS908474	NCI-H1703	COSO29915473	825986	cell-line	808197	n	y	n	n	n	primary	n	m	54.0				Stable	2.31550571029613			I						Caucasian	Current smoker (50_pack_years)				
+COSS753532	BB49-HNC	COSO29324830	672502	cell-line	653540	n	y	n	n	n	primary	y	f	70.0				Stable	2.19490043460569														
+COSS907272	KARPAS-45	COSO27984916	824784	cell-line	806992	n	y	n	n	n	primary	n	m	2.0				Stable	3.68062272215385														
+COSS905964	RPMI-8226	COSO27985184	823492	cell-line	805720	n	y	y	n	n	primary	n	m	61.0				Stable	2.91444221454713														
+COSS971774	RH-18	COSO34705343	887871	cell-line	869138	n	y	n	n	n	primary	n	f	2.0				Stable/Low	3.5144801517433														
+COSS753535	BHY	COSO29324830	672505	cell-line	653543	n	y	n	n	n	primary	n	m	52.0				Stable	2.92631320138839									Japanese					
+COSS910908	SW403	COSO28584826	828392	cell-line	810607	n	y	n	n	n	primary	n	m	51.0				Stable	3.01144815874561									Caucasian					
+COSS907314	KP-N-YN	COSO27774843	824826	cell-line	807034	n	y	n	n	n	primary	n	u					Stable	1.92582756581757														
+COSS949171	NB10	COSO27774843	865567	cell-line	846910	n	y	n	n	n	metastasis	n	m	2.0				Stable	3.38515102870974							liver							
+COSS687804	NCI-H1770	COSO29915674	615964	cell-line	597003	n	y	n	n	y	metastasis	y	m	57.0				Stable	2.7021443460697							lymph node		Caucasian	Non smoker				
+COSS1240199	OVKATE	COSO30134862	1151944	cell-line	1124056	n	y	n	n	n	NS	n	u					Stable	1.9096078754748														
+COSS907280	KMOE-2	COSO27984974	824792	cell-line	807000	n	y	n	n	n	primary	n	f	2.0				Stable	3.62874062428772														
+COSS949167	EW-22	COSO28065222	865564	cell-line	846907	n	y	n	n	n	primary	n	u					Stable	2.40421520915424														
+COSS908127	MES-SA	COSO37215226	825639	cell-line	807850	n	y	n	n	n	primary	n	f	56.0				Stable	1.88006043102726									Caucasian					
+COSS909785	WSU-NHL	COSO27605697	827270	cell-line	809485	n	y	n	n	n	metastasis	n	f	46.0				High	2.0044488072104							pleural effusion							
+COSS908148	MONO-MAC-6	COSO27984972	825660	cell-line	807871	n	y	n	n	n	primary	n	m	64.0				Stable	1.9074829984909														
+COSS909256	OCUB-M	COSO28394862	826742	cell-line	808953	n	y	n	n	n	metastasis	n	f	53.0				Stable/Low	3.3927993862258							pleura							
+COSS1247873	H3255	COSO29914826	1159552	cell-line	1131589	n	y	n	n	n	NS	n	u					Stable	2.51339813574487														
+COSS1330964	NCI-H1341	COSO29915333	1241440	cell-line	1212262	n	y	n	n	n	NS	n	u					Stable	3.60139973252825														
+COSS905948	A498	COSO29644862	823476	cell-line	805703	n	y	y	n	n	primary	n	f	52.0				Stable	3.31582638183211														
+COSS971773	RH-1	COSO28525541	887870	cell-line	869137	n	y	n	n	n	metastasis	n	m					Stable	2.98292486190405														
+COSS908463	NCI-H1793	COSO29914826	825975	cell-line	808186	n	y	n	n	n	primary	n	f	52.0				Stable	3.21613951959883										Non smoker				
+COSS1247871	SUP-B15	COSO27984920	1159550	cell-line	1131587	n	y	n	n	n	NS	n	u					Stable	1.97944872839473														
+COSS1298529	PCI-30	COSO29324862	1209583	cell-line	1181136	n	y	n	n	n	NS	n	u					Stable	2.4662296580492														
+COSS1240205	PCI-38	COSO29324862	1151950	cell-line	1124062	n	y	n	n	n	NS	n	u					Stable	2.73642823636248														
+COSS1240197	OV-90	COSO30134862	1151942	cell-line	1124054	n	y	n	n	n	NS	n	u					Stable	1.90863478527476														
+COSS907798	MC-1010	COSO27984972	825310	cell-line	807521	n	y	n	n	n	primary	n	m	25.0				Stable	1.95656138051574									Caucasian					
+COSS909709	SCC-9	COSO31034830	827195	cell-line	809409	n	y	n	n	n	primary	n	m	25.0				Stable	3.14102363649298														
+COSS909260	PF-382	COSO27984908	826746	cell-line	808957	n	y	n	n	n	metastasis	n	f	6.0				Stable	3.91585685482701							pleural effusion							
+COSS724878	SW1573	COSO29915674	615993	cell-line	597032	n	y	n	n	n	primary	n	f	44.0				Stable	3.32176115040586									Caucasian					
+COSS905933	OVCAR-3	COSO30134826	823458	cell-line	805688	n	y	y	n	n	primary	n	f	60.0				Stable	3.10152352532202									Caucasian					
+COSS1480364	OVCA420	COSO30135468	1404023	cell-line	1353595	n	y	n	n	n	NS	n	f					Stable	2.6526914723855														
+COSS1240209	RERF-GC-1B	COSO36004862	1151954	cell-line	1124066	n	y	n	n	n	NS	n	u					Stable	2.51803332266489														
+COSS1240219	SUIT-2	COSO29004862	1151964	cell-line	1124076	n	y	n	n	n	NS	n	u					Stable	3.51452294321677														
+COSS906825	Caov-3	COSO30134826	824349	cell-line	806554	n	y	n	n	n	primary	n	f	54.0				Stable	3.15909163067117									Caucasian					
+COSS949173	NB6	COSO27774843	865569	cell-line	846912	n	y	n	n	n	metastasis	n	m					Stable	1.98113165965976							bone marrow							
+COSS908118	MC-IXC	COSO27774843	825630	cell-line	807841	n	y	n	n	n	primary	n	f	14.0				Stable/Low	1.87366198649268									Caucasian					
+COSS910702	AsPC-1	COSO29005278	828187	cell-line	810403	n	y	n	n	n	metastasis	n	f	62.0				Stable	2.46124311300485							ascites		Caucasian					
+COSS1331055	NCI-H740	COSO29915333	1241531	cell-line	1212353	n	y	n	n	n	NS	n	u					Stable	3.28618626196564														
+COSS753586	LCLC-103H	COSO29915668	672556	cell-line	653594	n	y	n	n	n	primary	n	m	61.0				Stable	3.9139753669122									Caucasian					
+COSS905935	DU-145	COSO32054826	823461	cell-line	805690	n	y	y	n	n	primary	n	m	69.0				Low	2.6639663995309									Caucasian					
+COSS907000	ESS-1	COSO29026529	824512	cell-line	806717	n	y	n	n	n	primary	n	f	76.0				Stable	2.00602462731817									Caucasian					
+COSS910905	SNU-C1	COSO28584826	828389	cell-line	810604	n	y	n	n	n	metastasis	n	m	71.0				Stable	3.22732800420108							peritoneum		Asian					
+COSS1240137	H2810	COSO30105680	1151882	cell-line	1123994	n	y	n	n	n	NS	n	u					Stable	3.11076622971955														
+COSS946366	D-245MG	COSO28245229	862890	cell-line	844365	n	y	n	n	n	primary	n	u					Stable	3.69499699939239														
+COSS1240192	NCI-H841	COSO29915333	1151937	cell-line	1124049	n	y	n	n	n	NS	n	u					Stable	2.5199374415938														
+COSS1331038	SU-DHL-8	COSO31314954	1241514	cell-line	1212336	n	y	n	n	n	NS	n	u					Stable	2.15408806982041														
+COSS949155	ES8	COSO28065222	865553	cell-line	846896	n	y	n	n	n	primary	n	m	10.0				Stable	2.1157945641688														
+COSS2162949	LIM1215	COSO28584826	2031539	cell-line	1921178	n	y	n	n	n	primary	n	u					Unknown	1.97784976652118														
+COSS910931	RERF-LC-MS	COSO29914826	828415	cell-line	810630	n	y	n	n	n	primary	n	u					Stable	4.33277435509032									Japanese					
+COSS907059	HN	COSO30834830	824571	cell-line	806777	n	y	n	n	n	metastasis	n	m	60.0				Stable	3.05594177835906							cervical lymph node		Japanese					
+COSS908442	NCI-H508	COSO28454826	825953	cell-line	808164	n	y	n	n	n	metastasis	n	m	55.0				Stable	4.36323071987181							abdominal wall		Caucasian					
+COSS905973	HOP-92	COSO29915668	823501	cell-line	805730	n	y	y	n	n	primary	n	u					Stable	3.9959377594636														
+COSS907287	HT55	COSO28584826	824799	cell-line	807007	n	y	n	n	n	primary	n	u					Stable	3.4529381481579														
+COSS905936	HCT-116	COSO28584862	823462	cell-line	805691	n	y	y	n	n	primary	n	m					High	1.97598792974236														
+COSS907047	HCC1806	COSO283910130	824559	cell-line	806764	n	y	n	n	n	primary	n	f	60.0				Stable	2.21533198439035			II		II				Black					
+COSS907792	LS-123	COSO28584826	825304	cell-line	807515	n	y	n	n	n	primary	n	f	65.0				Stable	2.7242645605917									Caucasian					
+COSS949088	CTB-1	COSO27984799	865407	cell-line	846750	n	y	n	n	n	primary	n	m	70.0				Stable	2.08561400471495														
+COSS1290771	CL-34	COSO28864826	1201858	cell-line	1173534	n	y	n	n	n	NS	n	u					Stable	1.95212117743448														
+COSS907791	LP-1	COSO27985184	825303	cell-line	807514	n	y	n	n	n	primary	n	f	56.0				Stable	3.47337830516878														
+COSS907273	KARPAS-299	COSO29096820	824785	cell-line	806993	n	y	n	n	n	primary	n	m	25.0				Stable	1.89909845231822														
+COSS1479995	JHOS-2	COSO30135468	1403654	cell-line	1353252	n	y	n	n	n	NS	n	f					Stable	2.7581904734269														
+COSS908158	NALM-6	COSO27984920	825669	cell-line	807880	n	y	n	n	n	primary	n	m	19.0				High	1.93996664656465														
+COSS909725	SK-MEL-24	COSO32666078	827211	cell-line	809425	n	y	n	n	n	metastasis	n	m	67.0				Stable	1.9652573155929							lymph node		Caucasian					
+COSS1330941	MDA-MB-330	COSO28394862	1241417	cell-line	1212239	n	y	n	n	n	NS	n	u					Stable	3.98953343061427														
+COSS910209	SUP-B8	COSO27984920	827694	cell-line	809911	n	y	n	n	n	primary	n	u					Stable	1.98102802847697														
+COSS906849	ECC12	COSO36006249	824372	cell-line	806578	n	y	n	n	n	metastasis	n	m	63.0				Stable	2.22783212414296							liver							
+COSS1290769	CL-11	COSO28864826	1201856	cell-line	1173532	n	y	n	n	n	NS	n	u					Stable	1.93648941550326														
+COSS1298160	K2	COSO32666078	1209214	cell-line	1180767	n	y	n	n	n	NS	n	u					Stable	2.84953014388306														
+COSS910907	SW1990	COSO29005278	828391	cell-line	810606	n	y	n	n	n	metastasis	n	m	56.0				Stable	2.59787455823595					II		spleen		Caucasian					
+COSS910705	BALL-1	COSO27984920	828191	cell-line	810406	n	y	n	n	n	primary	n	u					Stable	2.11352395162254														
+COSS908129	MFE-280	COSO29024826	825641	cell-line	807852	n	y	n	n	n	recurrent	n	f	77.0				Stable	2.48871791908571														
+COSS910780	TGW	COSO27774843	828266	cell-line	810482	n	y	n	n	n	primary	n	u					Stable	3.17355106359444														
+COSS910850	C3A	COSO29825606	828336	cell-line	810553	n	y	n	n	n	primary	n	m	15.0				Stable	2.2279588794466									Caucasian					
+COSS905970	EKVX	COSO29914826	823498	cell-line	805727	n	y	y	n	n	primary	n	u					Stable	2.81128569510874														
+COSS909252	P30-OHK	COSO27984916	826738	cell-line	808949	n	y	n	n	n	primary	n	f	11.0				Low	1.88540556149589														
+COSS1524417	RCC-ER	COSO29645555	1446786	cell-line	1394554	n	y	n	n	n	primary	n	m	57.0				Stable	2.06116632948254									Caucasian					
+COSS905963	CAKI-1	COSO29645555	823491	cell-line	805719	n	y	y	n	n	primary	n	m	49.0				Stable	3.23190165859617									Caucasian					
+COSS724831	NCI-H1299	COSO29915674	615951	cell-line	596990	n	y	n	n	n	metastasis	n	m	43.0				Stable	4.75040009589256							lymph node		Caucasian					
+COSS908448	NKM-1	COSO27984905	825959	cell-line	808170	n	y	n	n	n	primary	n	u					Stable	1.96443261254574														
+COSS687590	U-87-MG	COSO28245257	615750	cell-line	596789	n	y	n	n	n	primary	n	f	44.0				Stable	1.86656702547198									Caucasian					
+COSS906854	EHEB	COSO27985045	824377	cell-line	806583	n	y	n	n	n	primary	n	f	69.0				Stable	1.91646076617947														
+COSS1503367	ESO51	COSO31394862	1426246	cell-line	1374912	n	y	n	n	n	NS	n	u					Stable	2.75062442587557														
+COSS753540	CAL-12T	COSO29915674	672510	cell-line	653548	n	y	n	n	n	primary	n	u					Stable	2.40427719965183														
+COSS907323	L-540	COSO27605700	824835	cell-line	807043	n	y	n	n	n	primary	n	f	20.0				Stable	2.89167559489152			IV											
+COSS906818	COLO-679	COSO32666078	824342	cell-line	806547	n	y	n	n	n	primary	n	f	47.0				Stable	2.09471901592712														
+COSS1240128	ES-2	COSO30134862	1151873	cell-line	1123984	n	y	n	n	n	NS	n	u					Stable	2.96907123005473														
+COSS905968	IGROV-1	COSO30134862	823496	cell-line	805725	n	y	y	n	n	primary	n	f					High	3.98669014860206														
+COSS907290	H-EMC-SS	COSO52145220	824802	cell-line	807010	n	y	n	n	n	primary	n	f	77.0				Stable	1.97789303784162														
+COSS910568	CGTH-W-1	COSO36286317	828053	cell-line	810269	n	y	n	n	n	metastasis	n	f	70.0				Stable	3.16919171772265							bone		Chinese					
+COSS909730	SK-NEP-1	COSO29645573	827216	cell-line	809430	n	y	n	n	n	metastasis	n	f	25.0				Stable	2.61809222717266							pleural effusion		Caucasian					
+COSS910943	CAS-1	COSO28245232	828427	cell-line	810644	n	y	n	n	n	primary	n	m	63.0				Stable	3.69946395430442														
+COSS906798	639-V	COSO36364881	824322	cell-line	806528	n	y	n	n	n	primary	n	m	69.0				Stable	2.40608566786972					III				White					
+COSS908446	NCI-SNU-16	COSO36004826	825957	cell-line	808168	n	y	n	n	n	metastasis	n	f	33.0				Stable	3.69191433664508							ascites		Korean					
+COSS753604	NCI-H292	COSO29915533	672574	cell-line	653612	n	y	n	n	n	metastasis	n	f	32.0				Stable/Low	2.03606007002927							cervical lymph node		Black					
+COSS753610	SBC-3	COSO29915333	672580	cell-line	653618	n	y	n	n	n	NS	n	u					Stable	2.15068680594512														
+COSS1524416	RCC-JW	COSO29645555	1446785	cell-line	1394553	n	y	n	n	n	primary	n	m	46.0				Stable	3.18031338406159									Caucasian					
+COSS910707	BL-70	COSO27984797	828193	cell-line	810408	n	y	n	n	n	primary	n	m	16.0				Stable	2.01324564974826									Caucasian					
+COSS1298348	NCI-H1568	COSO29914826	1209402	cell-line	1180955	n	y	n	n	n	NS	n	u					Stable	2.50062358556139														
+COSS906813	COLO-800	COSO32666078	824337	cell-line	806542	n	y	n	n	n	primary	n	m	14.0				Stable	2.75176441179156														
+COSS907063	HT	COSO27984799	824575	cell-line	806781	n	y	n	n	n	metastasis	n	m	70.0				High	1.92245954331516							ascitic fluid		Caucasian					
+COSS1331037	SU-DHL-6	COSO27984799	1241513	cell-line	1212335	n	y	n	n	n	NS	n	u					Stable	1.99159562361395														
+COSS924110	HDLM-2	COSO27605700	840885	cell-line	822665	n	y	n	n	n	metastasis	n	m	74.0				Stable	1.8900928404262							pleural effusion							
+COSS908449	NMC-G1	COSO28245257	825960	cell-line	808171	n	y	n	n	n	primary	n	u					Stable	2.26327271811573														
+COSS1331034	SU-DHL-16	COSO27984799	1241510	cell-line	1212332	n	y	n	n	n	NS	n	u					Stable/Low	2.06839392376271														
+COSS949153	HAL-01	COSO27984916	865551	cell-line	846894	n	y	n	n	n	primary	n	f	17.0				Stable	1.9617118945405														
+COSS1480359	JHOS-4	COSO30135468	1404018	cell-line	1353590	n	y	n	n	n	NS	n	f					Stable	3.93426025765947														
+COSS684681	NCI-H1395	COSO29915674	612841	cell-line	593880	n	y	n	n	n	primary	y	f	55.0				Stable	2.59958725882348			II						Caucasian	Current smoker (15_packyears)				
+COSS1524414	RCC-FG2	COSO29645555	1446783	cell-line	1394551	n	y	n	n	n	primary	n	m	69.0				Stable/Low	2.0635579188069									Caucasian					
+COSS1297440	CRO-AP3	COSO31314954	1208494	cell-line	1180048	n	y	n	n	n	NS	n	u					Unknown	3.64621661149722														
+COSS1240146	HCC-827	COSO29914826	1151891	cell-line	1124003	n	y	n	n	n	NS	n	u					Stable	2.84375841156417														
+COSS908476	NCI-H1993	COSO29914826	825988	cell-line	808199	n	y	n	n	n	metastasis	n	f	47.0				Stable	4.1942147925792			III				lymph node		Caucasian	Current smoker (30_pack-years)				
+COSS905958	MOLT-4	COSO27984916	823486	cell-line	805713	n	y	y	n	n	primary	n	m	19.0				High	4.08014286482852														
+COSS1290908	HCC-78	COSO29914826	1201994	cell-line	1173670	n	y	n	n	n	NS	n	u					Stable	3.94242339003205														
+COSS687812	NCI-H2085	COSO29915674	615972	cell-line	597011	n	y	n	n	n	NS	n	u					Stable	2.67274127375972														
+COSS1330984	OCI-LY-19	COSO27984799	1241460	cell-line	1212282	n	y	n	n	n	NS	n	u					Stable	1.98663883116351														
+COSS1331049	WIL2-NS	COSO27985099	1241525	cell-line	1212347	n	y	n	n	n	NS	n	u					Stable	2.01750548835196														
+COSS906833	Daoy	COSO28355253	824357	cell-line	806563	n	y	n	n	n	primary	n	m	4.0				Stable	4.15416704139309														
+COSS684057	ES5	COSO28065222	612217	cell-line	593256	n	y	n	n	n	primary	n	m	16.0				Stable	3.56052547937633														
+COSS1303897	GRANTA-519	COSO27984799	1214948	cell-line	1186448	n	y	n	n	n	NS	n	u					Stable	1.89087071882127														
+COSS687568	GB-1	COSO28245257	615728	cell-line	596767	n	y	n	n	n	primary	n	m	35.0				Stable	2.94374722336277														
+COSS909717	SJSA-1	COSO281010141	827203	cell-line	809417	n	y	n	n	n	primary	n	m	19.0				Stable/Low	2.00882881726046									Black					
+COSS1331039	SUP-HD1	COSO27985700	1241515	cell-line	1212337	n	y	n	n	n	NS	n	u					Stable/Low	1.97449812696684														
+COSS908458	NCI-H716	COSO28584826	825969	cell-line	808180	n	y	n	n	n	metastasis	n	m	33.0				Stable	2.74333756599635							ascitic fluid		Caucasian					
+COSS1240168	LN-18	COSO28245257	1151913	cell-line	1124025	n	y	n	n	n	NS	n	u					Stable	2.53526057719454														
+COSS684062	EW-11	COSO28065222	612222	cell-line	593261	n	y	n	n	n	primary	n	f	11.0				Stable	3.55529763276249														
+COSS906804	A2780	COSO30134826	824327	cell-line	806533	n	y	n	n	n	primary	n	f					Stable/Low	2.0009447431571														
+COSS1290722	ASH-3	COSO36284862	1201809	cell-line	1173485	n	y	n	n	n	NS	n	u					Stable	2.90237827973745														
+COSS1297447	EJM	COSO27985184	1208501	cell-line	1180055	n	y	n	n	n	NS	n	u					Stable	2.93903351187747														
+COSS907062	HSC-4	COSO31034830	824574	cell-line	806780	n	y	n	n	n	primary	n	m	64.0				Stable	3.42942460167427														
+COSS1298134	HeLa	COSO28514862	1209188	cell-line	1180741	n	y	n	n	n	NS	n	u					Stable	3.45538056044322														
+COSS909255	PA-1	COSO30135826	826741	cell-line	808952	n	y	n	n	n	metastasis	n	f	12.0				Stable	1.97706000652156							ascitic fluid		Caucasian					
+COSS1240135	H2803	COSO30105680	1151880	cell-line	1123992	n	y	n	n	n	NS	n	u					Stable/Low	1.70274901055839														
+COSS907783	LAMA-84	COSO27985064	825295	cell-line	807506	n	y	n	n	n	primary	n	f	29.0				Stable	3.08459509145589														
+COSS909194	NCI-H748	COSO29915333	826706	cell-line	808917	n	y	n	n	n	metastasis	n	m	62.0				Stable	2.69691273582054							lymph node		Black	Current smoker (50_pack_years)				
+COSS909747	SW1417	COSO28584826	827231	cell-line	809446	n	y	n	n	n	primary	n	f	53.0				Stable	3.01259063822457					III				Caucasian					
+COSS905937	HCT-15	COSO28584862	823464	cell-line	805692	n	y	y	n	n	primary	n	m					Low	1.95819772158463														
+COSS906871	GI-1	COSO28246449	824394	cell-line	806601	n	y	n	n	n	primary	n	m	61.0				Stable	4.34802547676008														
+COSS1330983	OCI-AML5	COSO27984905	1241459	cell-line	1212281	n	y	n	n	n	NS	n	u					Stable	2.04892669612133														
+COSS908128	Mewo	COSO32666078	825640	cell-line	807851	n	y	n	n	n	primary	n	u					Stable	1.92983577453176														
+COSS753545	CP50-MEL-B	COSO32666078	672515	cell-line	653553	n	y	n	n	n	primary	y	m	54.0				Stable	2.73824514299793												No prior chemotherapy		
+COSS910700	C2BBe1	COSO28584826	828185	cell-line	810401	n	y	n	n	n	primary	n	m	72.0				Stable	3.50567188103559									Caucasian					
+COSS717431	SK-N-SH	COSO27774843	632574	cell-line	613613	n	y	n	n	n	NS	n	u					Stable	2.03900314596085														
+COSS949172	NB12	COSO27774843	865568	cell-line	846911	n	y	n	n	n	metastasis	n	f	0.1				Stable	3.67914337044277							lymph node							
+COSS907053	HEL	COSO27984974	824565	cell-line	806771	n	y	n	n	n	primary	n	u					Stable	2.74997085087787														
+COSS1330982	NU-DUL-1	COSO27984799	1241458	cell-line	1212280	n	y	n	n	n	NS	n	u					Stable	1.93699733752044														
+COSS749710	HCC1143	COSO28395278	668681	cell-line	649719	n	y	n	n	y	primary	y	f	52.0				Stable	3.36204420145644					III				Caucasian					
+COSS1290814	H2818	COSO30105680	1201900	cell-line	1173576	n	y	n	n	n	NS	n	u					Stable	3.37666984757304														
+COSS907171	IPC-298	COSO32666078	824683	cell-line	806889	n	y	n	n	n	primary	n	f	64.0				Stable	3.44012101892167														
+COSS909746	SW1116	COSO28584826	827230	cell-line	809445	n	y	n	n	n	primary	n	m	73.0				Stable	2.6920050438894					II				Caucasian					
+COSS908122	MDA-MB-453	COSO28394862	825634	cell-line	807845	n	y	n	n	n	metastasis	n	f	48.0				Stable	4.19940070517918							pleural effusion							
+COSS687563	A172	COSO28245257	615723	cell-line	596762	n	y	n	n	n	primary	n	m	53.0				Stable	3.45694952736187														
+COSS905944	NCI-H522	COSO29915674	823472	cell-line	805699	n	y	y	n	n	primary	n	m	60.0				Stable	2.46582997984855									Caucasian					
+COSS1299050	SAT	COSO29324862	1210104	cell-line	1181657	n	y	n	n	n	NS	n	u					Stable	3.10437611322389														
+COSS713880	SBC-5	COSO29915333	639481	cell-line	620520	n	y	n	n	n	primary	n	u					Stable	2.91936859878936														
+COSS909728	SK-MES-1	COSO29914830	827214	cell-line	809428	n	y	n	n	n	metastasis	n	m	65.0				Stable	2.4740068460151							pleural effusion		Caucasian					
+COSS1290907	HCC-56	COSO28864826	1201993	cell-line	1173669	n	y	n	n	n	NS	n	u					Stable	2.72289215119818														
+COSS907061	HSC-3	COSO31034830	824573	cell-line	806779	n	y	n	n	n	primary	n	m	64.0				Stable	2.65789236984546														
+COSS905978	RXF393	COSO29645549	823506	cell-line	805735	n	y	y	n	n	primary	n	u					Stable	2.90589817050209														
+COSS1479987	DOV13	COSO30134826	1403646	cell-line	1353244	n	y	n	n	n	NS	n	f					Stable	1.90086743152349														
+COSS688015	NCI-H2171	COSO29915333	616175	cell-line	597214	n	y	n	n	y	primary	y	m	50.0				Stable	1.80960652129275									White	Current smoker (150_packyears)				
+COSS908475	NCI-H1755	COSO29914826	825987	cell-line	808198	n	y	n	n	n	metastasis	n	f	65.0				Stable	3.00925475529019			IV				liver		Caucasian	Current smoker (60_pack-years)				
+COSS910548	OAW-42	COSO30135770	828033	cell-line	810250	n	y	n	n	n	primary	n	f					Stable	3.65585730262732														
+COSS687588	U-118-MG	COSO28245257	615748	cell-line	596787	n	y	n	n	n	primary	n	m	50.0				Stable	2.17574238697433									Caucasian					
+COSS905980	TK10	COSO29645549	823508	cell-line	805737	n	y	y	n	n	primary	n	u					Stable	2.43913812136187														
+COSS909731	SK-PN-DW	COSO28065222	827217	cell-line	809432	n	y	n	n	n	primary	n	m	17.0				Stable	1.77960103614543									Caucasian					
+COSS1330947	MOLM-13	COSO27984905	1241423	cell-line	1212245	n	y	n	n	n	NS	n	u					Stable	2.16781982728372														
+COSS909743	SUP-T1	COSO27984908	827227	cell-line	809442	n	y	n	n	n	metastasis	n	m	8.0				Stable	1.9295314640758							pleural effusion		Caucasian					
+COSS749709	HCC1954	COSO28395278	668680	cell-line	649718	n	y	n	n	y	primary	y	f	61.0				Stable	4.2039847714438					III				Indian					
+COSS753616	BE2-M17	COSO27774843	672586	cell-line	653624	n	y	n	n	n	NS	n	u					Stable/Low	1.82392241472244														
+COSS753599	NCI-H1304	COSO29915333	672569	cell-line	653607	n	y	n	n	n	metastasis	n	f	56.0				Stable	2.62950596703487							pleural effusion		Caucasian	Current smoker (70_pack_years)				
+COSS749716	HCC2218	COSO28395278	668687	cell-line	649725	n	y	n	n	y	primary	y	f	38.0				Stable	3.92542878873401			III		III				White					
+COSS753572	KP-4	COSO29005278	672542	cell-line	653580	n	y	n	n	n	metastasis	n	m	50.0				Stable	2.98440115966662							ascites							
+COSS910941	CHP-134	COSO27774843	828425	cell-line	810642	n	y	n	n	n	primary	n	u	1.08				Stable	1.97225045710069														
+COSS910930	SCC-3	COSO27984799	828414	cell-line	810629	n	y	n	n	n	metastasis	n	f	20.0				Stable	2.06360619585647							pleural effusion							
+COSS724828	SK-N-AS	COSO27774843	616245	cell-line	597284	n	y	n	n	n	metastasis	n	f	6.0				Stable	1.93878944979003							bone marrow		Caucasian					
+COSS906794	A253	COSO32285533	824318	cell-line	806524	n	y	n	n	n	primary	n	m	54.0				Stable	2.77092179589005														
+COSS907289	HT-115	COSO28584862	824801	cell-line	807009	n	y	n	n	n	primary	n	u					Stable/Low	2.04470004457687														
+COSS1509074	NCC021	COSO29644862	1431940	cell-line	1380535	n	y	n	n	n	primary	n	u					Stable	1.87771411560769														
+COSS906746	Becker	COSO28245232	824223	cell-line	806452	n	y	n	n	n	primary	n	m	57.0				Stable	2.68148669502304														
+COSS906821	CFPAC-1	COSO29005278	824345	cell-line	806550	n	y	n	n	n	metastasis	n	m	26.0				Stable	3.20260790257469							liver		Caucasian					
+COSS924244	NCI-H1975	COSO29914826	841019	cell-line	822803	n	y	n	n	n	primary	n	f					Stable	2.82988866109489										Non smoker				
+COSS1298167	KMH-2	COSO36284862	1209221	cell-line	1180774	n	y	n	n	n	NS	n	u					Stable	3.78551950220077														
+COSS949163	EW-1	COSO28065222	865560	cell-line	846903	n	y	n	n	n	primary	n	m	19.0				Stable	2.16527806845759														
+COSS905952	CCRF-CEM	COSO27984916	823480	cell-line	805707	n	y	y	n	n	primary	n	f	4.0				Stable/Low	1.97616479230847									Caucasian					
+COSS910695	TGBC24TKB	COSO29244883	828180	cell-line	810396	n	y	n	n	n	metastasis	n	f					Stable	2.52531881279506							ascites		Japanese					
+COSS909722	SKM-1	COSO27984896	827208	cell-line	809422	n	y	n	n	n	primary	n	m	76.0				Stable	4.95836464548418														
+COSS907066	HT-1376	COSO27964881	824578	cell-line	806784	n	y	n	n	n	primary	n	f	58.0				Stable	4.99278065008437					III				Caucasian					
+COSS1660035	SNU-61	COSO28864826	1574363	NS	1512414	n	y	n	n	n	NS	n	u					Unknown	2.69557185822523														
+COSS1297439	COR-L95	COSO29915333	1208493	cell-line	1180047	n	y	n	n	n	NS	n	u					Stable	2.86507693584069														
+COSS907298	G-402	COSO29655571	824810	cell-line	807018	n	y	n	n	n	primary	n	f	0.75				Stable	2.04639147244569									Caucasian					
+COSS1503370	EMC-BAC-2	COSO29914826	1426249	cell-line	1374915	n	y	n	n	n	NS	n	u					Stable	2.02755054904927														
+COSS910932	GAK	COSO32666078	828416	cell-line	810631	n	y	n	n	n	primary	n	f	86.0				Stable	2.57727290217773									Japanese					
+COSS1298533	PL4	COSO29004862	1209587	cell-line	1181140	n	y	n	n	n	NS	n	u					Stable	4.5302527662728														
+COSS909761	T84	COSO28584862	827245	cell-line	809460	n	y	n	n	n	metastasis	n	m	72.0				Stable	2.6950276378945							lung							
+COSS908123	MDA-MB-468	COSO28394862	825635	cell-line	807846	n	y	n	n	n	metastasis	n	f	51.0				Stable	2.84214834874138							pleural effusion		Black					
+COSS907299	G-401	COSO37425749	824811	cell-line	807019	n	y	n	n	n	primary	n	m	0.25				Stable	1.96100887331746									Caucasian					
+COSS1240198	OVISE	COSO30134862	1151943	cell-line	1124055	n	y	n	n	n	NS	n	u					Stable	2.80215194670242														
+COSS1299081	WM793B	COSO32666078	1210134	cell-line	1181687	n	y	n	n	n	NS	n	u					Stable	2.14714507687764														
+COSS1240124	CL-40	COSO28864826	1151869	cell-line	1123980	n	y	n	n	n	NS	n	u					Stable	2.0535377563184														
+COSS1290795	CS1	COSO28064888	1201882	cell-line	1173558	n	y	n	n	n	NS	n	u					Stable	2.86540485600161														
+COSS907268	JiyoyeP-2003	COSO29164797	824780	cell-line	806988	n	y	n	n	n	metastasis	n	m					Stable/Low	1.9855587796025							ascitic fluid		Black					
+COSS924105	BPH-1	COSO32055502	840880	cell-line	822660	n	y	n	n	n	primary	n	m	68.0				Stable	3.22355243749208														
+COSS687980	COR-L311	COSO29915333	616140	cell-line	597179	n	y	n	n	n	NS	n	u					Stable	4.32623490115124														
+COSS1299080	WM35	COSO32666078	1210133	cell-line	1181686	n	y	n	n	n	NS	n	u					Stable	2.87193252867228														
+COSS1240131	H2591	COSO30105680	1151876	cell-line	1123987	n	y	n	n	n	NS	n	u					Stable	1.77299946205314														
+COSS1240122	BICR78	COSO29324862	1151867	cell-line	1123978	n	y	n	n	n	NS	n	u					Stable	2.58358666707493														
+COSS753564	IST-SL1	COSO29915333	672534	cell-line	653572	n	y	n	n	n	metastasis	n	m					Stable	3.24128784224615							lymph node							
+COSS907169	IGR-1	COSO32666078	824681	cell-line	806887	n	y	n	n	n	metastasis	n	m	42.0				Stable	3.1424088210891							groin lymph node							
+COSS1298168	KMRC-1	COSO29644862	1209222	cell-line	1180775	n	y	n	n	n	NS	n	u					Stable	3.25367419996578														
+COSS1299059	SKN-3	COSO29324862	1210113	cell-line	1181666	n	y	n	n	n	NS	n	u					Stable	2.90174821402987														
+COSS1240123	CCK-81	COSO28864826	1151868	cell-line	1123979	n	y	n	n	n	NS	n	u					High	3.72642290028847														
+COSS905941	NCI-H226	COSO29914830	823469	cell-line	805696	n	y	y	n	n	primary	n	m					Stable	1.93246489598758										Non smoker				
+COSS687448	COLO-829	COSO32666078	615608	cell-line	596647	y	y	n	n	n	NS	y	m	45.0				Stable	2.76516684229189									Caucasian			No prior chemotherapy		
+COSS1290922	HDQ-P1	COSO28394862	1201995	cell-line	1173671	n	y	n	n	n	NS	n	u					Stable	4.13905729975792														
+COSS946382	CAMA-1	COSO28394862	862905	cell-line	844380	n	y	n	n	n	metastasis	n	f	51.0				Stable	1.93283330334901							pleural effusion		Caucasian					
+COSS1330981	NK-92MI	COSO27985099	1241457	cell-line	1212279	n	y	n	n	n	NS	n	u					Stable	3.494264802837														
+COSS724834	NCI-H2087	COSO29915674	612840	cell-line	593879	n	y	n	n	n	metastasis	y	m	69.0				Stable	2.39176082122437			I				lymph node		Caucasian	Current smoker (60_pack_years)				
+COSS908131	MG-63	COSO28065214	825643	cell-line	807854	n	y	n	n	n	primary	n	m	14.0				Stable	3.03488957566054														
+COSS908450	no-11	COSO28245239	825961	cell-line	808172	n	y	n	n	n	primary	n	f	64.0				Stable	3.30839122592967														
+COSS906793	A375	COSO32666078	824317	cell-line	806523	n	y	n	n	n	primary	n	f	54.0				Stable	2.68986181299191														
+COSS909253	P31-FUJ	COSO27984972	826739	cell-line	808950	n	y	n	n	n	primary	n	u					Low	2.04338962299787														
+COSS905942	NCI-H23	COSO29915674	823470	cell-line	805697	n	y	y	n	n	primary	n	m	51.0				Stable	2.89980820693291									Black					
+COSS1330932	KO52	COSO27984905	1241408	cell-line	1212230	n	y	n	n	n	NS	n	u					Stable/Low	2.07285682739817														
+COSS909721	SK-LU-1	COSO29914826	827207	cell-line	809421	n	y	n	n	n	primary	n	f	60.0				Stable	3.70238325823826									Caucasian					
+COSS688058	NCI-H2052	COSO30105680	616218	cell-line	597257	n	y	n	n	n	metastasis	y	m	65.0				Stable	3.87556174228344							pleural effusion		Caucasian	Current smoker (40_packyears)				
+COSS1298234	MCC26	COSO32666047	1209288	cell-line	1180841	n	y	n	n	n	NS	n	u					Unknown	2.45401389626523														
+COSS909773	TUR	COSO27984799	827257	cell-line	809472	n	y	n	n	n	primary	n	m	37.0				Low	2.4173401959794									Caucasian					
+COSS909751	SW48	COSO28584826	827235	cell-line	809450	n	y	n	n	n	primary	n	f	82.0				High	2.04596525086155									Caucasian					
+COSS907787	LC4-1	COSO27984916	825299	cell-line	807510	n	y	n	n	n	primary	n	f	13.0				Stable	1.95738756042405														
+COSS949160	EW-7	COSO28065222	865557	cell-line	846900	n	y	n	n	n	primary	n	f	20.0				Stable	2.43185191934951														
+COSS905991	OVCAR-8	COSO30134862	823519	cell-line	805748	n	y	y	n	n	primary	n	f					Stable	2.42070680238163														
+COSS910567	CHP-126	COSO27774843	828052	cell-line	810268	n	y	n	n	n	primary	n	f	1.2				Stable	2.01425809407365														
+COSS753582	LB647-SCLC	COSO29914862	672552	cell-line	653590	n	y	n	n	n	primary	y	m	48.0				Stable	2.31288260186558														
+COSS724839	SW756	COSO28514862	615675	cell-line	596714	n	y	n	n	n	primary	n	f	46.0				Stable	3.7312779928658									Caucasian					
+COSS908480	NCI-H2081	COSO29915333	825992	cell-line	808203	n	y	n	n	n	metastasis	n	f	59.0				Stable	3.05038845603178							pleural effusion		Caucasian	Current smoker (25_pack-years)				
+COSS688087	SK-N-FI	COSO27774843	616247	cell-line	597286	n	y	n	n	n	metastasis	n	m	11.0				Stable	2.04916167900112							bone marrow		Caucasian					
+COSS749715	HCC2157	COSO28395278	668686	cell-line	649724	n	y	n	n	y	primary	y	f	48.0				Stable	2.68976015336076									Black					
+COSS910927	CAL-51	COSO28394862	828411	cell-line	810626	n	y	n	n	n	metastasis	n	f	45.0				Stable/Low	1.98844620945745							pleural effusion							
+COSS908147	MOLT-16	COSO27984908	825659	cell-line	807870	n	y	n	n	n	primary	n	f	5.0				Stable/Low	1.96340536688059														
+COSS905984	SF539	COSO28245257	823512	cell-line	805741	n	y	y	n	n	primary	n	u					Stable	3.04946731116034														
+COSS1240206	PCI-6A	COSO29324862	1151951	cell-line	1124063	n	y	n	n	n	NS	n	u					Stable	3.02488283656628														
+COSS910079	OE19	COSO31474826	827564	cell-line	809781	n	y	n	n	n	primary	n	m	72.0				Stable	2.61254426947622														
+COSS949158	ES1	COSO28065222	865556	cell-line	846899	n	y	n	n	n	primary	n	f	5.0				Stable	1.94286785869162														
+COSS907055	HGC-27	COSO36004826	824567	cell-line	806773	n	y	n	n	n	primary	n	u					Stable	2.95128506283901														
+COSS1298218	KP-2	COSO29004862	1209272	cell-line	1180825	n	y	n	n	n	NS	n	u					Unknown	3.4994159520719														
+COSS753552	DSH1	COSO27964862	672522	cell-line	653560	n	y	n	n	n	primary	n	u					Stable	3.43928937198113														
+COSS1240218	SU8686	COSO29004862	1151963	cell-line	1124075	n	y	n	n	n	NS	n	u					Stable	2.86889676749381														
+COSS1298476	PANC-04-03	COSO29004862	1209530	cell-line	1181083	n	y	n	n	n	NS	n	u					Stable	2.69742124952713														
+COSS949161	EW-3	COSO28065222	865558	cell-line	846901	n	y	n	n	n	primary	n	m	14.0				Stable	2.0937562298362														
+COSS908136	MHH-PREB-1	COSO27604920	825648	cell-line	807859	n	y	n	n	n	primary	n	m	5.0				High	1.98520966305139									Caucasian					
+COSS1303910	Sarc9371	COSO28065226	1214961	cell-line	1186461	n	y	n	n	n	NS	n	u					Unknown	3.01340982028691														
+COSS909762	TALL-1	COSO27984908	827246	cell-line	809461	n	y	n	n	n	primary	n	m	28.0				Stable	3.77113528756239														
+COSS1327765	JEKO-1	COSO27984799	1238260	cell-line	1209259	n	y	n	n	n	NS	n	u					Stable	4.59972919723396														
+COSS909756	SW872	COSO31365756	827240	cell-line	809455	n	y	n	n	n	primary	n	m	36.0				Stable	3.45596913924664									Caucasian					
+COSS1298151	JHH-1	COSO29824862	1209205	cell-line	1180758	n	y	n	n	n	NS	n	u					Stable	3.77649252019689														
+COSS908441	NCCIT	COSO36246737	825952	cell-line	808163	n	y	n	n	n	primary	n	m					Stable	2.50028464670163														
+COSS909712	SF126	COSO28245229	827198	cell-line	809412	n	y	n	n	n	primary	n	u					Stable	1.96045595216375														
+COSS753534	BEN	COSO29914862	672504	cell-line	653542	n	y	n	n	n	metastasis	n	m	71.0				Stable	3.6061179683896							lymph node							
+COSS910948	MFM-223	COSO28395278	828432	cell-line	810649	n	y	n	n	n	metastasis	n	f					Stable	2.50563906476209					III		NA							
+COSS688121	VA-ES-BJ	COSO28065226	616281	cell-line	597320	n	y	n	n	n	metastasis	n	m	43.0				Stable	2.73870103698437							bone marrow		Caucasian					
+COSS946358	YT	COSO27605510	862884	cell-line	844359	n	y	n	n	n	primary	n	m	15.0				Stable	3.67469394090768														
+COSS1503371	TE-4	COSO31394862	1426250	cell-line	1374916	n	y	n	n	n	NS	n	u					Stable	2.4888834433487														
+COSS909699	RMG-I	COSO30135332	827185	cell-line	809397	n	y	n	n	n	primary	n	f					Stable	2.09450521138937														
+COSS907173	IST-MES1	COSO30105680	824685	cell-line	806893	n	y	n	n	n	primary	n	f	70.0				Stable	3.28527789364012									Caucasian					
+COSS1330994	RCH-ACV	COSO27984920	1241470	cell-line	1212292	n	y	n	n	n	NS	n	u					Stable	2.03577694839973														
+COSS1303912	CHSA8926	COSO28065220	1214963	cell-line	1186463	n	y	n	n	n	NS	n	u					Stable	2.0911491257094														
+COSS1298357	NUGC-4	COSO36004862	1209411	cell-line	1180964	n	y	n	n	n	NS	n	u					Stable	3.33831806113405														
+COSS1297446	DND-41	COSO27984908	1208500	cell-line	1180054	n	y	n	n	n	NS	n	u					High	3.84109643557541														
+COSS688031	NCI-H82	COSO29915333	616191	cell-line	597230	n	y	n	n	n	metastasis	n	m	40.0				Stable	2.49396591723569							pleural effusion		Caucasian					
+COSS910701	SCC-25	COSO31034830	828186	cell-line	810402	n	y	n	n	n	primary	n	m	70.0				Stable	1.85755082338944														
+COSS906828	CAL-62	COSO36286315	824352	cell-line	806557	n	y	n	n	n	primary	n	f	70.0				Stable	2.52646933799178														
+COSS1240221	TC-71	COSO28065222	1151966	cell-line	1124078	n	y	n	n	n	NS	n	u					Stable	3.6242260131481														
+COSS1327766	JJN-3	COSO27985184	1238261	cell-line	1209260	n	y	n	n	n	NS	n	u					Stable	2.66453625838127														
+COSS925342	NBsusSR	COSO27774843	842113	cell-line	823895	n	y	n	n	n	metastasis	n	m	18.0				Stable	3.18479516232932							lung							
+COSS1240154	IHH-4	COSO36284862	1151899	cell-line	1124011	n	y	n	n	n	NS	n	u					Stable	2.00131891745002														
+COSS1330991	PL-21	COSO27984905	1241467	cell-line	1212289	n	y	n	n	n	NS	n	u					Stable	3.79579461477789														
+COSS753569	KNS-62	COSO29914830	672539	cell-line	653577	n	y	n	n	n	primary	n	m	49.0				Stable	2.50671283200517														
+COSS905939	HT-29	COSO28584862	823466	cell-line	805694	n	y	y	n	n	primary	n	f	44.0				Stable	3.04454963906638									Caucasian					
+COSS1240220	SW156	COSO29644862	1151965	cell-line	1124077	n	y	n	n	n	NS	n	u					Unknown															
+COSS910851	A427	COSO29914862	828337	cell-line	810554	n	y	n	n	n	primary	n	m	52.0				Stable	3.12644189065962									Caucasian					
+COSS908156	MV-4-11	COSO27984903	825667	cell-line	807878	n	y	n	n	n	primary	n	m	10.0				Stable	2.01212739648268														
+COSS1240185	NCI-H1944	COSO29914826	1151930	cell-line	1124042	n	y	n	n	n	NS	n	u					Stable	2.12804604506266														
+COSS925339	MMAC-SF	COSO32666078	842108	cell-line	823891	n	y	n	n	n	metastasis	n	f	39.0				Stable	3.21832443533142							ascites							
+COSS908132	MHH-CALL-2	COSO27984920	825644	cell-line	807855	n	y	n	n	n	primary	n	f	15.0				Stable	2.11159276322745														
+COSS925341	NCI-H810	COSO29915668	842110	cell-line	823894	n	y	n	n	n	primary	n	m	51.0				Stable	2.54947010146615									Black					
+COSS909726	SK-MEL-30	COSO32666078	827212	cell-line	809426	n	y	n	n	n	metastasis	n	m	67.0				Stable	3.66869254047396							subcutaneous		Caucasian					
+COSS908126	MEG-01	COSO27985064	825638	cell-line	807849	n	y	n	n	n	primary	n	m	55.0				Stable	2.53478818121558														
+COSS1298353	NCI-H2172	COSO29915674	1209407	cell-line	1180960	n	y	n	n	n	NS	n	u					Stable	4.23008992593804														
+COSS1331040	SUP-M2	COSO27986820	1241516	cell-line	1212338	n	y	n	n	n	NS	n	u					Stable	2.18687547330816														
+COSS905951	BT-549	COSO28395285	823479	cell-line	805706	n	y	y	n	n	primary	n	f	72.0				Stable	2.96617030459875									Caucasian					
+COSS1327769	JSC-1	COSO27984799	1238264	cell-line	1209263	n	y	n	n	n	NS	n	u					Stable	3.45441623878079														
+COSS907317	KYSE-150	COSO31414830	824829	cell-line	807037	n	y	n	n	n	primary	n	f	49.0				Stable	2.84721024300588									Japanese					
+COSS910904	SCC-4	COSO31034830	828388	cell-line	810603	n	y	n	n	n	primary	n	m	55.0				Stable	2.95460090199129														
+COSS1322213	COR-L321	COSO31314954	1233100	cell-line	1204228	n	y	n	n	n	NS	n	u					Stable	1.78796491017186														
+COSS949170	LAN-6	COSO27774843	865566	cell-line	846909	n	y	n	n	n	metastasis	n	m	5.8				Stable	1.9263826141324							bone marrow							
+COSS753612	SK-MM-2	COSO27985184	672582	cell-line	653620	n	y	n	n	n	primary	n	m	54.0				Stable	1.90090808622603														
+COSS907786	LC-2-ad	COSO29914826	825298	cell-line	807509	n	y	n	n	n	primary	n	f	51.0				Stable	3.37239069861793														
+COSS753623	TE-8	COSO31394862	672593	cell-line	653631	n	y	n	n	n	primary	n	u					Stable	2.40524359407473														
+COSS924186	KGN	COSO301310702	840961	cell-line	822741	n	y	n	n	n	primary	n	f	69.0				Stable	1.93830868463252														
+COSS909737	SNU-423	COSO29825606	827221	cell-line	809437	n	y	n	n	n	primary	n	m	40.0				Stable	5.91929611903596					IV				Korean					
+COSS722066	NCI-H650	COSO29915668	627240	cell-line	608279	n	y	n	n	n	metastasis	n	m					Stable	4.42022699198584							lymph node			Non smoker				
+COSS753597	NCI-H128	COSO29915333	672567	cell-line	653605	n	y	n	n	n	metastasis	y	m	60.0				Stable	2.85162758424755							pleural effusion		Black					
+COSS1240140	H3118	COSO29324862	1151885	cell-line	1123997	n	y	n	n	n	NS	n	u					Stable	2.05706356022657														
+COSS753614	TE-15	COSO31394862	672584	cell-line	653622	n	y	n	n	n	primary	n	u					Stable	2.59857133005446														
+COSS906832	DB	COSO27984818	824356	cell-line	806561	n	y	n	n	n	metastasis	n	m	45.0				Stable	3.15790764990196							ascitic fluid		Caucasian					
+COSS906847	EB-3	COSO27984797	824370	cell-line	806576	n	y	n	n	n	primary	n	m	3.0				Stable	1.97059877401459									Black					
+COSS908471	NCI-H1581	COSO29915668	825983	cell-line	808194	n	y	n	n	n	primary	n	m	44.0				Stable	3.18966334135198			IV						Caucasian	Ex smoker (75_pack-years)				
+COSS909748	SW1463	COSO28664826	827232	cell-line	809447	n	y	n	n	n	primary	n	f	66.0				Stable	3.40225049113669					III				Caucasian					
+COSS1330935	L-1236	COSO27985700	1241411	cell-line	1212233	n	y	n	n	n	NS	n	u					Stable	2.81298828778436														
+COSS1298359	OE21	COSO31394862	1209413	cell-line	1180966	n	y	n	n	n	NS	n	u					Stable	3.067860102245														
+COSS946354	TE-11	COSO31394830	862880	cell-line	844355	n	y	n	n	n	primary	n	u					Stable	2.81545192775505														
+COSS930297	SiHa	COSO28514830	847030	cell-line	828642	n	y	n	n	n	primary	n	f	55.0				Stable	2.94540963592908									Mongoloid					
+COSS908445	NCI-SNU-5	COSO36004826	825956	cell-line	808167	n	y	n	n	n	metastasis	n	f	22.0				Stable	3.98555259152344							ascites		Korean					
+COSS905962	SW620	COSO28584826	823490	cell-line	805718	n	y	y	n	n	primary	n	m	51.0				Stable	2.17739219595527									Caucasian					
+COSS905955	SK-MEL-2	COSO33456078	823483	cell-line	805710	n	y	y	n	n	primary	n	m	60.0				Low	2.10757326088938									Caucasian					
+COSS1240134	H2731	COSO30105680	1151879	cell-line	1123990	n	y	n	n	n	NS	n	u					Unknown	2.51082846696455														
+COSS1240136	H2804	COSO30105680	1151881	cell-line	1123993	n	y	n	n	n	NS	n	u					Stable	3.24354887395444														
+COSS722045	NCI-H2030	COSO29914826	627217	cell-line	608256	n	y	n	n	n	metastasis	n	m					Stable	2.11415333612253							lymph node			Non smoker				
+COSS724873	NCI-H2009	COSO29915674	615970	cell-line	597009	n	y	n	n	n	metastasis	y	f	58.0				Stable	4.77295572637028			IV				lymph node		Caucasian	Current smoker (30_pack_years)				
+COSS1290768	CHSA0108	COSO28065220	1201855	cell-line	1173531	n	y	n	n	n	NS	n	u					Stable	2.86777746766602														
+COSS907295	DMS-53	COSO29915333	824807	cell-line	807015	n	y	n	n	n	primary	n	m	54.0				Stable	2.64899841805647														
+COSS753600	NCI-H1563	COSO29914826	672570	cell-line	653608	n	y	n	n	n	primary	n	m					Stable	3.67237074749305										Non smoker				
+COSS908467	NCI-H1155	COSO299110138	825979	cell-line	808190	n	y	n	n	n	metastasis	n	m	36.0				Stable	2.05543018970072							lymph node							
+COSS907322	L-428	COSO27605700	824834	cell-line	807042	n	y	n	n	n	metastasis	n	f	37.0				Stable/Low	4.37780376269515			IV				pleural effusion							
+COSS1303900	HCC1500	COSO28394862	1214951	cell-line	1186451	n	y	n	n	n	NS	n	u					Stable/Low	1.66072563480004														
+COSS908452	no-10	COSO28245239	825963	cell-line	808174	n	y	n	n	n	primary	n	m	62.0				Stable	2.46803199244707														
+COSS1299062	SW1271	COSO29915333	1210116	cell-line	1181669	n	y	n	n	n	NS	n	u					Stable	2.65815073227882														
+COSS713899	LU-135	COSO29915333	639500	cell-line	620539	n	y	n	n	n	primary	n	m	69.0				Stable	2.43654775266014														
+COSS907794	LS-411N	COSO28454826	825306	cell-line	807517	n	y	n	n	n	primary	n	m	32.0				High	3.30250997219994									Caucasian					
+COSS930301	VMRC-MELG	COSO32666078	847034	cell-line	828646	n	y	n	n	n	metastasis	n	u					Stable	3.28197353734652							colon							
+COSS1524419	RCC-MF	COSO29645555	1446788	cell-line	1394556	n	y	n	n	n	primary	n	m	63.0				Stable	1.75068711614696									Caucasian					
+COSS1330931	KCL-22	COSO27985052	1241407	cell-line	1212229	n	y	n	n	n	NS	n	u					Low	2.17363892468358														
+COSS1240184	NCI-H1915	COSO29915668	1151929	cell-line	1124041	n	y	n	n	n	NS	n	u					Stable	2.00929626961812														
+COSS724838	UM-UC-3	COSO27964862	615620	cell-line	596659	n	y	n	n	n	primary	n	m					Stable	3.39253004252909														
+COSS910935	A3-KAW	COSO27984818	828419	cell-line	810634	n	y	n	n	n	metastasis	n	f	68.0				Stable	2.04381593448882							ascites		Japanese					
+COSS906805	COR-L105	COSO29914826	824328	cell-line	806534	n	y	n	n	n	primary	n	u					Stable	1.73561172732961														
+COSS909778	UACC-893	COSO28395278	827262	cell-line	809478	n	y	n	n	n	primary	n	f	57.0				Stable	2.94749980771429			II						Caucasian					
+COSS1240151	Hs746T	COSO36004862	1151896	cell-line	1124008	n	y	n	n	n	NS	n	u					Stable	2.05978923493337														
+COSS905971	HCC2998	COSO28584826	823499	cell-line	805728	n	y	y	n	n	primary	n	m					Stable	2.05969901696851														
+COSS905986	SF268	COSO28245257	823514	cell-line	805743	n	y	y	n	n	primary	n	u					Stable	2.48330429878044														
+COSS909739	SNU-475	COSO29825606	827223	cell-line	809439	n	y	n	n	n	primary	n	m	43.0				Stable	2.95492095968106			IV		IV				Korean					
+COSS1330995	RC-K8	COSO27984799	1241471	cell-line	1212293	n	y	n	n	n	NS	n	u					Stable	2.07228379081645														
+COSS1299064	T-T	COSO31394862	1210117	cell-line	1181670	n	y	n	n	n	NS	n	u					Stable	3.43610051530844														
+COSS946373	D-502MG	COSO28245229	862898	cell-line	844373	n	y	n	n	n	primary	n	u					Stable	3.77227387835716														
+COSS1240142	HARA	COSO29914830	1151887	cell-line	1123999	n	y	n	n	n	NS	n	u					Stable	2.77607633397052														
+COSS1330985	OCI-M1	COSO27984905	1241461	cell-line	1212283	n	y	n	n	n	NS	n	u					Stable	3.15595962506339														
+COSS1299075	VCaP	COSO32054826	1210128	cell-line	1181681	n	y	n	n	n	NS	n	u					Stable	3.28125882162018														
+COSS907060	HOS	COSO28065214	824572	cell-line	806778	n	y	n	n	n	primary	n	f	13.0				Stable	2.14808513455448									Caucasian					
+COSS1240200	OVMIU	COSO30134862	1151945	cell-line	1124057	n	y	n	n	n	NS	n	u					Stable	2.12804365571398														
+COSS909701	RPMI-6666	COSO27605700	827187	cell-line	809399	n	y	n	n	n	primary	n	m	29.0				Stable	1.95239398217128									Caucasian					
+COSS910703	CA46	COSO27984797	828188	cell-line	810404	n	y	n	n	n	metastasis	n	m					Stable	4.01340593864492							ascitic fluid							
+COSS946369	D-336MG	COSO28245229	862893	cell-line	844369	n	y	n	n	n	primary	n	u					Stable	3.25538972467054														
+COSS688022	NCI-H378	COSO29915333	616182	cell-line	597221	n	y	n	n	n	metastasis	n	f	66.0				Stable	1.89448088269759							pleural effusion		Caucasian					
+COSS908465	NCI-H358	COSO29915645	825977	cell-line	808188	n	y	n	n	n	primary	n	m					Stable	2.83777661250105									Caucasian					
+COSS2164691	GEO	COSO28584826	2033185	cell-line	1922783	n	y	n	n	n	primary	n	u					Unknown	2.47532087829804														
+COSS910903	RPMI-7951	COSO32666078	828387	cell-line	810602	n	y	n	n	n	metastasis	n	f	18.0				Stable	2.48144064546684							lymph node		Caucasian					
+COSS909757	SW948	COSO28584826	827241	cell-line	809456	n	y	n	n	n	primary	n	f	81.0				Stable	2.92989795837763					III				Caucasian					
+COSS1290724	BICR10	COSO29324862	1201811	cell-line	1173487	n	y	n	n	n	NS	n	u					Stable	1.96365764675075														
+COSS753531	BB30-HNC	COSO29324830	672501	cell-line	653539	n	y	n	n	n	primary	y	f					Stable	2.02756312313013														
+COSS753563	IM-9	COSO27985184	672533	cell-line	653571	n	y	n	n	n	primary	n	f					Stable	1.96835777967482														
+COSS753579	LB2518-MEL	COSO32666078	672549	cell-line	653587	n	y	n	n	n	primary	y	f	57.0				Stable	3.18527588802704												No prior chemotherapy		
+COSS1298222	KYSE-50	COSO31394862	1209276	cell-line	1180829	n	y	n	n	n	NS	n	u					Stable	3.36121813750562														
+COSS1303911	YMB-1-E	COSO28394862	1214962	cell-line	1186462	n	y	n	n	n	NS	n	u					Stable	3.22617449832241														
+COSS907044	HC-1	COSO27989860	824556	cell-line	806761	n	y	n	n	n	primary	n	m	56.0				Stable	3.90135072551254									White					
+COSS906843	DoTc2-4510	COSO28514862	824366	cell-line	806572	n	y	n	n	n	primary	n	f					Stable	3.1568868774113														
+COSS909904	YAPC	COSO29005278	827389	cell-line	809604	n	y	n	n	n	primary	n	m	43.0				Stable	3.17690855744026									Japanese					
+COSS688025	NCI-H526	COSO29915333	616185	cell-line	597224	n	y	n	n	n	metastasis	n	m	55.0				Stable/Low	3.02094489875337							bone marrow		Caucasian					
+COSS1240216	SNU-182	COSO29824862	1151961	cell-line	1124073	n	y	n	n	n	NS	n	u					Stable	3.20462226763971														
+COSS1298539	RKN	COSO30134888	1209593	cell-line	1181146	n	y	n	n	n	NS	n	u					Stable	4.22198212187159														
+COSS907071	HuH-7	COSO29825606	824583	cell-line	806789	n	y	n	n	n	primary	n	m	57.0				Stable	2.43532755850692														
+COSS908159	NAMALWA	COSO27984797	825670	cell-line	807881	n	y	n	n	n	primary	n	u					Stable/Low	3.2787166260446														
+COSS1290765	CAL-78	COSO28065220	1201852	cell-line	1173528	n	y	n	n	n	NS	n	u					Stable	3.42489737778948														
+COSS906856	EoL-1-cell	COSO27986373	824379	cell-line	806585	n	y	n	n	n	primary	n	m	33.0				Stable	2.12715418881103														
+COSS1331030	SC-1	COSO27984799	1241506	cell-line	1212328	n	y	n	n	n	NS	n	u					Stable	2.00132092068677														
+COSS909784	WM-115	COSO32666078	827268	cell-line	809484	n	y	n	n	n	primary	n	f	58.0				Stable	1.95655635008534														
+COSS924238	K5	COSO36286317	841013	cell-line	822795	n	y	n	n	n	primary	n	u					Stable	3.9761714379259														
+COSS687799	NCI-H1648	COSO29915674	615959	cell-line	596998	n	y	n	n	n	metastasis	n	m	39.0				Stable	2.43707672029873							lymph node		Black	Current smoker				
+COSS753622	TE-10	COSO31394862	672592	cell-line	653630	n	y	n	n	n	primary	n	u					Stable	2.69280491802381														
+COSS1330933	KOPN-8	COSO27984920	1241409	cell-line	1212231	n	y	n	n	n	NS	n	u					Stable	1.97629775488632														
+COSS1503362	OACp4C	COSO31394862	1426241	cell-line	1374907	n	y	n	n	n	NS	n	u					Stable	2.42575365715003														
+COSS687780	COR-L23	COSO29915674	615940	cell-line	596979	n	y	n	n	n	primary	n	m	62.0				Stable	2.21646727439531									Caucasian					
+COSS1331048	VAL	COSO27984799	1241524	cell-line	1212346	n	y	n	n	n	NS	n	u					Stable	2.10254500931649														
+COSS1240190	NCI-H3122	COSO29914826	1151935	cell-line	1124047	n	y	n	n	n	NS	n	u					Stable	3.74383501880538														
+COSS1298347	NCI-H1435	COSO29914826	1209401	cell-line	1180954	n	y	n	n	n	NS	n	u					Stable	1.85606959679907														
+COSS908144	MOG-G-CCM	COSO28245229	825656	cell-line	807867	n	y	n	n	n	primary	n	u					Stable	1.97811948225699														
+COSS949176	NB5	COSO27774843	865572	cell-line	846915	n	y	n	n	n	metastasis	n	f	2.0				Stable	1.81547144408052							bone marrow							
+COSS909251	P12-ICHIKAWA	COSO27984908	826737	cell-line	808948	n	y	n	n	n	primary	n	m	7.0				Stable	3.66898210538812														
+COSS905989	KM12	COSO28584826	823517	cell-line	805746	n	y	y	n	n	primary	n	u					High	1.93475306058128														
+COSS946361	LCLC-97TM1	COSO29915668	862887	cell-line	844362	n	y	n	n	n	primary	n	m	44.0				Stable	2.80025146255313									Caucasian					
+COSS1240186	NCI-H196	COSO29915333	1151931	cell-line	1124043	n	y	n	n	n	NS	n	u					Stable	2.35138478749209														
+COSS905967	NCI-H322M	COSO29915645	823495	cell-line	805724	n	y	y	n	n	primary	n	m	52.0				Stable	2.34601909469896									Caucasian					
+COSS688027	NCI-H69	COSO29915333	616187	cell-line	597226	n	y	n	n	n	metastasis	n	m	55.0				Stable	1.60739446062772							bone marrow		Caucasian					
+COSS908451	NOMO-1	COSO27984972	825962	cell-line	808173	n	y	n	n	n	primary	n	u					Stable	2.056642134337														
+COSS924189	KP-N-RT-BM-1	COSO27774843	840964	cell-line	822744	n	y	n	n	n	metastasis	n	u					Stable	1.9127477031912							bone marrow							
+COSS905972	HOP-62	COSO29914826	823500	cell-line	805729	n	y	y	n	n	primary	n	u					Stable	2.86737456685938														
+COSS905949	A549	COSO29914862	823477	cell-line	805704	n	y	y	n	n	primary	n	m	58.0				Stable	2.76194461055645									Caucasian					
+COSS687997	NCI-H1092	COSO29915333	616157	cell-line	597196	n	y	n	n	n	metastasis	n	m	67.0				Stable	2.91069967250283							bone marrow		Caucasian	Current smoker				
+COSS906865	G-361	COSO32666078	824388	cell-line	806595	n	y	n	n	n	primary	n	m	31.0				Stable	3.14648952281841									Caucasian					
+COSS1789883	DIFI	COSO28864826	1692999	cell-line	1625093	n	y	n	n	n	NS	n	u					Unknown	3.60308114280093														
+COSS687506	C-4-I	COSO28514862	615666	cell-line	596705	n	y	n	n	n	NS	n	f					Stable	1.9258361591929														
+COSS1299078	WM1552C	COSO32666078	1210131	cell-line	1181684	n	y	n	n	n	NS	n	u					Stable	2.00704582998993														
+COSS910919	BC-1	COSO27984799	828403	cell-line	810618	n	y	n	n	n	metastasis	n	m	46.0				Stable	2.22382678871816							pleural effusion							
+COSS906790	AGS	COSO36004826	824314	cell-line	806520	n	y	n	n	n	primary	n	f	54.0				Stable	2.09425923320378									Caucasian					
+COSS909702	RPMI-8402	COSO27984908	827188	cell-line	809401	n	y	n	n	n	primary	n	f	16.0				Stable	3.68525376503788														
+COSS910399	NCI-H838	COSO29915674	827884	cell-line	810101	n	y	n	n	n	primary	n	u					Stable	2.23214075665034														
+COSS688021	NCI-H345	COSO29915333	616181	cell-line	597220	n	y	n	n	n	metastasis	n	m	64.0				Stable	2.6956452418527							bone marrow		Caucasian					
+COSS908151	MRK-nu-1	COSO28394862	825663	cell-line	807874	n	y	n	n	n	primary	n	f	46.0				Stable	3.82020528532333														
+COSS925343	MFH-ino	COSO31355754	842114	cell-line	823896	n	y	n	n	n	primary	n	f					Stable	2.75521979571072														
+COSS906808	COR-L88	COSO29915333	824331	cell-line	806537	n	y	n	n	n	primary	n	m	55.0				Stable	3.28921898571407									Caucasian					
+COSS724874	NCI-H2291	COSO29915674	615977	cell-line	597016	n	y	n	n	n	metastasis	n	m					Stable	2.82690032584742							lymph node			Non smoker				
+COSS753533	BB65-RCC	COSO29645555	672503	cell-line	653541	n	y	n	n	n	primary	y	m	60.0				Stable	1.71400761756775														
+COSS907799	MC116	COSO27984799	825311	cell-line	807522	n	y	n	n	n	metastasis	n	m					Stable	2.09196066818613							pleural effusion							
+COSS910920	A704	COSO29645549	828404	cell-line	810619	n	y	n	n	n	primary	n	m	78.0				Stable/Low	1.96157663245385														
+COSS1331050	WSU-DLCL2	COSO27984799	1241526	cell-line	1212348	n	y	n	n	n	NS	n	u					Stable	2.01055287238315														
+COSS905945	T47D	COSO28395278	823473	cell-line	805700	n	y	y	n	n	primary	n	f	54.0				Stable	2.77657066781016														
+COSS924188	KNS-81-FD	COSO28245257	840963	cell-line	822743	n	y	n	n	n	primary	n	m	65.0				Stable	1.84060753518063														
+COSS1298362	OSC-19	COSO29324862	1209416	cell-line	1180969	n	y	n	n	n	NS	n	u					Stable	5.0637701536052														
+COSS925347	PANC-08-13	COSO29005278	842118	cell-line	823900	n	y	n	n	n	primary	n	m	85.0				Stable/Low	2.42712538985496									White					
+COSS1240217	SNU-398	COSO29824862	1151962	cell-line	1124074	n	y	n	n	n	NS	n	u					Stable	2.62872585377504														
+COSS906877	GR-ST	COSO27984916	824400	cell-line	806607	n	y	n	n	n	primary	n	m	10.0				High	2.04825578900642														
+COSS930299	TT	COSO36286327	847032	cell-line	828644	n	y	n	n	n	primary	n	u					Stable	1.88406378723015														
+COSS753589	LU-165	COSO29915333	672559	cell-line	653597	n	y	n	n	n	metastasis	n	m	50.0				Stable	1.84632722168333							lymph node							
+COSS683665	MC-CAR	COSO27985184	611825	cell-line	592864	n	y	n	n	n	primary	n	m	81.0				Stable	1.95220205745165									Caucasian					
+COSS905940	K-562	COSO27985052	823468	cell-line	805695	n	y	y	n	n	primary	n	f	53.0				Stable	2.96046523110043														
+COSS925338	MDA-MB-157	COSO28395291	842107	cell-line	823889	n	y	n	n	n	metastasis	n	f					Stable	2.81174999661384							pleural effusion		Black					
+COSS687459	TCCSUP	COSO27964862	615619	cell-line	596658	n	y	n	n	n	primary	n	f	67.0				Stable	3.03512245748783														
+COSS1240226	WM278	COSO32666078	1151971	cell-line	1124083	n	y	n	n	n	NS	n	u					Stable	3.1866964365016														
+COSS907172	IST-MEL1	COSO32666078	824684	cell-line	806892	n	y	n	n	n	primary	n	m					Stable	3.36202373637333									Caucasian					
+COSS907051	HEC-1	COSO29024826	824563	cell-line	806769	n	y	n	n	n	primary	n	f					Low	3.43236580437853														
+COSS909711	SCH	COSO360010139	827197	cell-line	809411	n	y	n	n	n	primary	n	m	46.0				Stable	2.62955130266325														
+COSS1659818	MM1S	COSO27985184	1574147	cell-line	1512198	n	y	n	n	n	primary	n	f	42.0				Stable/Low	1.93847749475661									Black					
+COSS910691	COLO-684	COSO29024826	828177	cell-line	810393	n	y	n	n	n	primary	n	f	63.0				Low	2.25773275463943														
+COSS908457	NCI-H747	COSO28454826	825968	cell-line	808179	n	y	n	n	n	metastasis	n	m	69.0				Stable/Low	2.97448175233784							stomach		Caucasian					
+COSS1240183	NCI-H1869	COSO29914830	1151928	cell-line	1124040	n	y	n	n	n	NS	n	u					Stable	3.7743333423753														
+COSS1659928	SNU-175	COSO28864826	1574256	cell-line	1512307	n	y	n	n	n	NS	n	u					High	2.02573998718706														
+COSS688086	SK-N-DZ	COSO27774843	616246	cell-line	597285	n	y	n	n	n	metastasis	n	f	2.0				Stable	3.89895167165244							bone marrow		Caucasian					
+COSS907312	KU-19-19	COSO27964881	824824	cell-line	807032	n	y	n	n	n	primary	n	m	76.0				Stable	3.21025545735348					III									
+COSS907311	KU812	COSO27985050	824823	cell-line	807031	n	y	n	n	n	primary	n	m					Stable	2.54515992545117														
+COSS924248	TE-441-T	COSO28525541	841023	cell-line	822808	n	y	n	n	n	primary	n	f	14.0				Stable	2.03055254656326									Black					
+COSS946370	D-392MG	COSO28245229	862894	cell-line	844370	n	y	n	n	n	primary	n	u					Stable	2.02584389904663														
+COSS724868	NCI-H1792	COSO29915674	615965	cell-line	597004	n	y	n	n	n	metastasis	n	m	50.0				Stable	2.1639158226824			IV				pleural effusion		Caucasian	Current smoker				
+COSS1479988	Hey	COSO30135468	1403647	cell-line	1353245	n	y	n	n	n	NS	n	f					Stable	3.65490881951174														
+COSS1290809	H2373	COSO30105680	1201895	cell-line	1173571	n	y	n	n	n	NS	n	u					Stable	1.83725915274031														
+COSS906830	C32	COSO32666078	824354	cell-line	806559	n	y	n	n	n	primary	n	m	53.0				Stable	2.01172129266339									Caucasian					
+COSS908120	MDA-MB-175-VII	COSO28395278	825632	cell-line	807843	n	y	n	n	n	metastasis	n	f	56.0				Stable	3.62705535382088							pleural effusion		Black					
+COSS905934	PC-3	COSO32054826	823459	cell-line	805689	n	y	y	n	n	primary	n	m	62.0				Stable	4.26926251011173					IV				Caucasian					
+COSS1298356	NCI-H2444	COSO29915674	1209410	cell-line	1180963	n	y	n	n	n	NS	n	u					Stable	2.36122443657364														
+COSS687819	NCI-H2342	COSO29915674	615979	cell-line	597018	n	y	n	n	n	primary	n	m	55.0				Stable	3.6638925161879									Caucasian	Non smoker				
+COSS908134	MHH-ES-1	COSO28185222	825646	cell-line	807857	n	y	n	n	n	metastasis	n	m	12.0				Stable	4.28326655699671							peritoneum		Turkish					
+COSS924106	CAL-148	COSO28395278	840881	cell-line	822661	n	y	n	n	n	metastasis	n	f	58.0				Stable	2.06551310674411							pleural effusion		European					
+COSS1524418	RCC-AB	COSO29645555	1446787	cell-line	1394555	n	y	n	n	n	primary	n	m	49.0				Stable	1.76523021595495									Caucasian					
+COSS907050	HD-MY-Z	COSO27605700	824562	cell-line	806767	n	y	n	n	n	metastasis	n	u	29.0				Stable	2.44129674139392							pleural effusion							
+COSS1287706	451Lu	COSO32666078	1198893	cell-line	1170581	n	y	n	n	n	NS	n	u					Stable	3.90164039778913														
+COSS906817	COLO-680N	COSO31394830	824341	cell-line	806546	n	y	n	n	n	primary	n	f	57.0				Stable	2.88445663489332									Black					
+COSS949178	NB14	COSO27774843	865574	cell-line	846917	n	y	n	n	n	metastasis	n	f	1.0				Stable	2.01555251861392							bone marrow							
+COSS917486	LS-1034	COSO28864826	672044	cell-line	653082	n	y	n	n	n	primary	y	m	54.0				Stable	3.05820269354163									Caucasian					
+COSS1287381	201T	COSO29914826	1198659	cell-line	1170347	n	y	n	n	n	NS	n	u					Stable/Low	3.168851800031														
+COSS909249	OPM-2	COSO27985184	826735	cell-line	808946	n	y	n	n	n	primary	n	f	56.0				Stable	3.22616667742944														
+COSS1240172	MDA-MB-436	COSO28394862	1151917	cell-line	1124029	n	y	n	n	n	NS	n	u					Stable/Low	2.97319120781616														
+COSS724879	SW900	COSO29915674	615994	cell-line	597033	n	y	n	n	n	primary	n	m	53.0				Stable	2.58404991765955					IV				Caucasian					
+COSS753621	TE-1	COSO31394862	672591	cell-line	653629	n	y	n	n	n	primary	n	u					Stable	2.63961173064089														
+COSS946356	TE-12	COSO31394830	862882	cell-line	844357	n	y	n	n	n	primary	n	u					Stable	2.95642738717633														
+COSS909700	RPMI-2650	COSO29294830	827186	cell-line	809398	n	y	n	n	n	metastasis	n	u					Stable	1.95611131090282							pleural effusion							
+COSS906792	A2058	COSO32666078	824316	cell-line	806522	n	y	n	n	n	metastasis	n	m	43.0				Stable	2.12860246958518							lymph node		Caucasian					
+COSS909976	KM-H2	COSO27605700	827461	cell-line	809677	n	y	n	n	n	metastasis	n	m	37.0				Stable	2.86316180533755			IV				pleural effusion							
+COSS724869	HPAF-II	COSO29005278	616273	cell-line	597312	n	y	n	n	n	metastasis	n	m	44.0				Stable	2.5516923671085							peritoneal effusion		Caucasian					
+COSS909745	SW1088	COSO28245229	827229	cell-line	809444	n	y	n	n	n	primary	n	m	72.0				Stable	4.55283856109757									Caucasian					
+COSS906795	8305C	COSO36286315	824319	cell-line	806525	n	y	n	n	n	primary	n	f	67.0				Stable	3.09477931182578														
+COSS1240130	G-MEL	COSO32666078	1151875	cell-line	1123986	n	y	n	n	n	NS	n	u					Stable	2.75086157112221														
+COSS949094	M059J	COSO28245232	865492	cell-line	846835	n	y	n	n	n	primary	n	m	33.0				Stable	4.2394845294183														
+COSS753539	CADO-ES1	COSO28065222	672509	cell-line	653547	n	y	n	n	n	metastasis	n	f	19.0				Stable	2.06173963853728							pleural effusion		Japanese					

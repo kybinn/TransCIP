@@ -1,0 +1,6 @@
+coef,fold,best_epoch,best_val_roc_auc,model_path,validation_loss,tcga_loss
+0.4,0,178,0.7325571514719588,/homeb/kuangyabin/U4/ablation3/full_coefficient_sensitivity/model_save/coef_0p4/pretrain_num_epochs_90_train_num_epochs_700/fold0_DRPmodel.pt,0.6222914457321167,2.9947686195373535
+0.4,1,248,0.7122826712010278,/homeb/kuangyabin/U4/ablation3/full_coefficient_sensitivity/model_save/coef_0p4/pretrain_num_epochs_90_train_num_epochs_700/fold1_DRPmodel.pt,0.6306011080741882,2.950981616973877
+0.4,2,123,0.7059613377999889,/homeb/kuangyabin/U4/ablation3/full_coefficient_sensitivity/model_save/coef_0p4/pretrain_num_epochs_90_train_num_epochs_700/fold2_DRPmodel.pt,0.6454858779907227,3.027053117752075
+0.4,3,309,0.7526788230084933,/homeb/kuangyabin/U4/ablation3/full_coefficient_sensitivity/model_save/coef_0p4/pretrain_num_epochs_90_train_num_epochs_700/fold3_DRPmodel.pt,0.6012663245201111,3.0277843475341797
+0.4,4,244,0.7202495125469619,/homeb/kuangyabin/U4/ablation3/full_coefficient_sensitivity/model_save/coef_0p4/pretrain_num_epochs_90_train_num_epochs_700/fold4_DRPmodel.pt,0.6310780048370361,2.969510555267334
