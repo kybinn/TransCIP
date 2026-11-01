@@ -33,6 +33,8 @@ def get_unlabeled_dataloaders(gex_features_df, soure_ccc, target_ccc, seed, test
     ccle_sample_info_df = ccle_sample_info_df.loc[ccle_samples.intersection(ccle_sample_info_df.index)]
     tcga_df = gex_features_df.loc[tcga_samples]
     ccle_df = gex_features_df.loc[ccle_samples]
+    soure_ccc = soure_ccc.loc[ccle_df.index]
+    target_ccc = target_ccc.loc[tcga_df.index]
     
     #ensuring that samples can be 'train-test' separately according to the tissue type
     excluded_ccle_samples = []
@@ -149,6 +151,7 @@ def get_ccle_multi_labeled_dataloader(gex_features_df,soure_ccc, batch_size, dru
                 # ccle_labels.iloc[i, j] = (ccle_labels.iloc[i, j] < threshold_gdsc[j]).astype(int) 
                 ccle_labels.iloc[i, j] = (ccle_labels.iloc[i, j] < threshold_gdsc).astype(int)  
     ccle_labeled_feature_df = gex_features_df.loc[ccle_labeled_samples]  
+    soure_ccc = soure_ccc.loc[ccle_labeled_samples]
     
     # Node feature setting of label graph
     SMILES = pd.read_csv(config.gdsc_drugs, header=0, index_col=0) 

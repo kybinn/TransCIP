@@ -5,7 +5,7 @@ import torch
 import numpy as np
 import torch.nn as nn
 import config
-from models import DRPmodel, DRPmodel1, DRPmodel2, DRPmodel3
+from models import DRPmodel
 from torch_geometric.data import Batch
 from utils.loss_functions import bina_metric
 import pandas as pd
@@ -135,228 +135,6 @@ def tcga_fingerprint_loss_ablation(model, tcga_gene_all, tcga_ccc_features,
         
         
 
-
-def multi_eval_epoch(substruct_graphs,drug_embedding_smiles,drug_embedding_MOA,model, loader, device):
-    model.eval()
-    total_loss = 0
-    alpha = 0
-    y_true, y_pred = [], []
-    auc_list, aupr_list, acc_list, f1_list = [], [], [], []
-
-    result_per_epoch = []
-    labels_per_epoch = []
-
-    for gene_all, ccc_features, labels, mask, *_ in loader:
-        gene_all = gene_all.to(device)
-        ccc_features = ccc_features.to(device)
-        labels = labels.to(device)
-        mask = mask.to(device)
-
-        
-         
-        cancergene_inputs = []
-        ccc_inputs = []
-        labels_real = []
-        drug_inputs_smiles,drug_inputs_MOA,substruct_graphs_input = [], [],[]
-        drug_indices=[]  
-        for n in range(mask.shape[1]):
-            for m in range(mask.shape[0]):
-                if mask[m][n] > 0:
-                    cancergene_inputs.append(gene_all[m])
-                    ccc_inputs.append(ccc_features[m])
-                    drug_inputs_smiles.append(drug_embedding_smiles[n])
-                    drug_inputs_MOA.append(drug_embedding_MOA[n])
-                    
-                    labels_real.append(labels[m][n])
-                    drug_indices.append(n) 
-            
-        
-        cancergene_inputs = torch.stack(cancergene_inputs, dim=0)
-        ccc_inputs = torch.stack(ccc_inputs, dim=0)
-        labels_real = torch.stack(labels_real, dim=0)
-        drug_indices = torch.tensor(drug_indices, dtype=torch.long) 
-        
-
-        with torch.no_grad():
-            predictions, drug_gene_features = model(cancergene_inputs,ccc_inputs,drug_inputs_smiles,drug_inputs_MOA,substruct_graphs,config.substru_mask,drug_indices)
-            probabilities = torch.sigmoid(predictions)
-            loss  = nn.BCEWithLogitsLoss()(predictions,labels_real) 
-            
-            total_loss += loss
-
-            y_true.extend(labels_real.cpu().detach().numpy().tolist())
-            y_pred.extend(probabilities.cpu().detach().numpy().tolist())
-
-        
-        
-        result_in_batch = torch.zeros_like(labels)
-        i = 0
-                 
-        for n in range(mask.shape[1]):
-            for m in range(mask.shape[0]):
-                if mask[m][n] > 0:
-                    result_in_batch[m][n] = torch.sigmoid(predictions[i])
-                    i+=1
-        
-        
-        result_per_epoch.append(result_in_batch.cpu().detach().numpy())
-        labels_per_epoch.append(labels.cpu().detach().numpy())  
-        
-    result_per_epoch = np.vstack(result_per_epoch) 
-    labels_per_epoch = np.vstack(labels_per_epoch)
-         
-    y_true = np.array(y_true)   
-    y_pred = np.array(y_pred)
-
-         
-    
-    df_metrics = pd.DataFrame(columns=['Drug','Precision','F1','PRAUC','Accuracy','ROC_AUC'])
-    for drug_idx in range(result_per_epoch.shape[1]):
-        drug_results = result_per_epoch[:, drug_idx]
-        drug_labels = labels_per_epoch[:, drug_idx]
-        
-        valid_indices = np.where(drug_labels != -1)[0]
-        if(len(valid_indices) == 0):
-            precision, recall, f1, prauc, roc_auc,accuracy = -1, -1, -1, -1, -1,-1
-        else:
-            drug_results = drug_results[valid_indices]
-            drug_labels = drug_labels[valid_indices]
-            # print(f"drug{drug_idx} total samples:", len(drug_labels))
-            # print(f"drug{drug_idx} positive samples:", sum(drug_labels))
-            precision, recall, f1, prauc, roc_auc,accuracy = bina_metric(drug_labels, (drug_results>=0.5).astype(int), drug_results)
-        
-        new_row = {'Drug': drug_idx,
-                    'Precision': precision,
-                    'F1': f1,
-                    'PRAUC': prauc,
-                    'Accuracy': accuracy,
-                    'ROC_AUC': roc_auc}
-        df_metrics = pd.concat([df_metrics, pd.DataFrame([new_row])], ignore_index=True)
-
-    
-    return total_loss, df_metrics , y_true, y_pred
-
-
-def testing(substruct_graphs,drug_embedding_smiles,drug_embedding_MOA,model, t_dataloader, device):
-    model.train(False)  
-    test_loss, results, y_true, y_pred = multi_eval_epoch(substruct_graphs,drug_embedding_smiles=drug_embedding_smiles,drug_embedding_MOA= drug_embedding_MOA,model=model,
-                                          loader=t_dataloader,
-                                          device=device) 
-    precision, recall, f1, prauc, roc_auc,accuracy = bina_metric(y_true, (y_pred>=0.5).astype(int), y_pred)
-    
-    print(
-        f"** TESTING on TCGA data**   "
-        f"loss: {test_loss:.5f}, "
-        f"Precision: {precision:.5f}, "
-        f"Recall: {recall:.5f}, "
-        f"F1: {f1:.5f}, "
-        f"PRAUC: {prauc:.5f}, "
-        f"ROC_AUC: {roc_auc:.5f}. "
-    )
-    return test_loss, results, y_true, y_pred
-
-
-def multi_eval_epoch1(drug_embedding_smiles, drug_embedding_MOA, model, loader, device):
-    model.eval()
-    total_loss = 0
-    y_true, y_pred = [], []
-    result_per_epoch = []
-    labels_per_epoch = []
-
-    for gene_all, ccc_features, labels, mask, *_ in loader:
-        gene_all = gene_all.to(device)
-        labels = labels.to(device)
-        mask = mask.to(device)
-
-        cancergene_inputs = []
-        labels_real = []
-        drug_inputs_smiles = []
-        drug_inputs_MOA = []
-        for n in range(mask.shape[1]):
-            for m in range(mask.shape[0]):
-                if mask[m][n] > 0:
-                    cancergene_inputs.append(gene_all[m])
-                    drug_inputs_smiles.append(drug_embedding_smiles[n])
-                    drug_inputs_MOA.append(drug_embedding_MOA[n])
-                    labels_real.append(labels[m][n])
-
-        cancergene_inputs = torch.stack(cancergene_inputs, dim=0)
-        labels_real = torch.stack(labels_real, dim=0)
-
-        with torch.no_grad():
-            predictions, drug_gene_features  = model(
-                cancergene_inputs, drug_inputs_smiles, drug_inputs_MOA
-            )
-            probabilities = torch.sigmoid(predictions)
-            loss = nn.BCEWithLogitsLoss()(predictions, labels_real)
-            total_loss += loss
-
-            y_true.extend(labels_real.cpu().detach().numpy().tolist())
-            y_pred.extend(probabilities.cpu().detach().numpy().tolist())
-
-        result_in_batch = torch.zeros_like(labels)
-        i = 0
-        for n in range(mask.shape[1]):
-            for m in range(mask.shape[0]):
-                if mask[m][n] > 0:
-                    result_in_batch[m][n] = torch.sigmoid(predictions[i])
-                    i += 1
-        result_per_epoch.append(result_in_batch.cpu().detach().numpy())
-        labels_per_epoch.append(labels.cpu().detach().numpy())
-
-    result_per_epoch = np.vstack(result_per_epoch)
-    labels_per_epoch = np.vstack(labels_per_epoch)
-    y_true = np.array(y_true)
-    y_pred = np.array(y_pred)
-
-    df_metrics = pd.DataFrame(columns=['Drug', 'Precision', 'F1', 'PRAUC', 'Accuracy', 'ROC_AUC'])
-    for drug_idx in range(result_per_epoch.shape[1]):
-        drug_results = result_per_epoch[:, drug_idx]
-        drug_labels = labels_per_epoch[:, drug_idx]
-        valid_indices = np.where(drug_labels != -1)[0]
-        if len(valid_indices) == 0:
-            precision, recall, f1, prauc, roc_auc, accuracy = -1, -1, -1, -1, -1, -1
-        else:
-            drug_results = drug_results[valid_indices]
-            drug_labels = drug_labels[valid_indices]
-            precision, recall, f1, prauc, roc_auc, accuracy = bina_metric(
-                drug_labels, (drug_results >= 0.5).astype(int), drug_results
-            )
-
-        new_row = {'Drug': drug_idx,
-                   'Precision': precision,
-                   'F1': f1,
-                   'PRAUC': prauc,
-                   'Accuracy': accuracy,
-                   'ROC_AUC': roc_auc}
-        df_metrics = pd.concat([df_metrics, pd.DataFrame([new_row])], ignore_index=True)
-
-    return total_loss, df_metrics, y_true, y_pred
-
-
-def testing1(drug_embedding_smiles, drug_embedding_MOA, model, t_dataloader, device):
-    model.train(False)
-    test_loss, results, y_true, y_pred = multi_eval_epoch1(
-        drug_embedding_smiles=drug_embedding_smiles,
-        drug_embedding_MOA=drug_embedding_MOA,
-        model=model,
-        loader=t_dataloader,
-        device=device
-    )
-    precision, recall, f1, prauc, roc_auc, accuracy = bina_metric(y_true, (y_pred >= 0.5).astype(int), y_pred)
-
-    print(
-        f"** TESTING on TCGA data**   "
-        f"loss: {test_loss:.5f}, "
-        f"Precision: {precision:.5f}, "
-        f"Recall: {recall:.5f}, "
-        f"F1: {f1:.5f}, "
-        f"PRAUC: {prauc:.5f}, "
-        f"ROC_AUC: {roc_auc:.5f}. "
-    )
-    return test_loss, results, y_true, y_pred
-
-
 def multi_eval_epoch2(drug_embedding_smiles, drug_embedding_MOA, model, loader, device):
     model.eval()
     total_loss = 0
@@ -464,7 +242,7 @@ def testing2(drug_embedding_smiles, drug_embedding_MOA, model, t_dataloader, dev
 
 
 def training2(drug_embedding_smiles,drug_embedding_MOA,cancer_encoder,ccc_encoder,ccc_gate_layer,s_dataloader,train_ids,test_ids,val_dataloader,tcga_dataloader,
-              model_cls=DRPmodel2, disable_supcon=False, disable_tcga_fingerprint=False, disable_rank=False, log_dir="logs/stage2_ablation2", **kwargs):
+              model_cls=DRPmodel, disable_supcon=False, disable_tcga_fingerprint=False, disable_rank=False, log_dir="logs/stage2_ablation2", **kwargs):
     model = model_cls(cancer_encoder, ccc_encoder, ccc_gate_layer, kwargs['latent_dim']).to(kwargs['device'])
 
     if getattr(model, 'ccc_encoder', None) is not None:
@@ -615,8 +393,8 @@ def training2(drug_embedding_smiles,drug_embedding_MOA,cancer_encoder,ccc_encode
                 )
    
             
-            loss = 1 * (loss_predic + coral_loss  + loss_f1 )+ 0.4 * (
-               1*loss_supcon +  1*loss_tcga_fingerprint + loss_rank
+            loss = 1 * (loss_predic + coral_loss  + loss_f1 + loss_rank)+ 0.1 * (
+               1*loss_supcon +  1*loss_tcga_fingerprint 
             )#                                             #700 
             loss.backward()
             optimizer.step()
@@ -695,53 +473,12 @@ def training2(drug_embedding_smiles,drug_embedding_MOA,cancer_encoder,ccc_encode
     return model
 
 
-def training1(drug_embedding_smiles,drug_embedding_MOA,cancer_encoder,ccc_encoder,ccc_gate_layer,s_dataloader,train_ids,test_ids,val_dataloader,tcga_dataloader, **kwargs):
-    return training2(
-        drug_embedding_smiles, drug_embedding_MOA, cancer_encoder, ccc_encoder, ccc_gate_layer,
-        s_dataloader, train_ids, test_ids, val_dataloader, tcga_dataloader,
-        model_cls=DRPmodel1, log_dir="logs/stage2_ablation1", **kwargs
-    )
 
-
-def training3(drug_embedding_smiles,drug_embedding_MOA,cancer_encoder,ccc_encoder,ccc_gate_layer,s_dataloader,train_ids,test_ids,val_dataloader,tcga_dataloader, **kwargs):
-    return training2(
-        drug_embedding_smiles, drug_embedding_MOA, cancer_encoder, ccc_encoder, ccc_gate_layer,
-        s_dataloader, train_ids, test_ids, val_dataloader, tcga_dataloader,
-        model_cls=DRPmodel3, log_dir="logs/stage2_ablation3", **kwargs
-    )
-
-
-
-
-def training7(drug_embedding_smiles,drug_embedding_MOA,cancer_encoder,ccc_encoder,ccc_gate_layer,s_dataloader,train_ids,test_ids,val_dataloader,tcga_dataloader, **kwargs):
-    return training2(
-        drug_embedding_smiles, drug_embedding_MOA, cancer_encoder, ccc_encoder, ccc_gate_layer,
-        s_dataloader, train_ids, test_ids, val_dataloader, tcga_dataloader,
-        model_cls=DRPmodel, disable_supcon=True, log_dir="logs/stage2_ablation7", **kwargs
-    )
-
-
-def training8(drug_embedding_smiles,drug_embedding_MOA,cancer_encoder,ccc_encoder,ccc_gate_layer,s_dataloader,train_ids,test_ids,val_dataloader,tcga_dataloader, **kwargs):
-    return training2(
-        drug_embedding_smiles, drug_embedding_MOA, cancer_encoder, ccc_encoder, ccc_gate_layer,
-        s_dataloader, train_ids, test_ids, val_dataloader, tcga_dataloader,
-        model_cls=DRPmodel, disable_tcga_fingerprint=True, log_dir="logs/stage2_ablation8", **kwargs
-    )
-
- 
-def training9(drug_embedding_smiles,drug_embedding_MOA,cancer_encoder,ccc_encoder,ccc_gate_layer,s_dataloader,train_ids,test_ids,val_dataloader,tcga_dataloader, **kwargs):
-    """Compatibility entry: old Ablation 9 is now the no-rank full baseline."""
-    return training2(
-        drug_embedding_smiles, drug_embedding_MOA, cancer_encoder, ccc_encoder, ccc_gate_layer,
-        s_dataloader, train_ids, test_ids, val_dataloader, tcga_dataloader,
-        model_cls=DRPmodel, disable_rank=True, log_dir="logs/stage2_ablation9", **kwargs
-    )
 
 
 def training(subdrug_Encoder=None, substruct_graphs=None, drug_embedding_smiles=None, drug_embedding_MOA=None,
              cancer_encoder=None, ccc_encoder=None, ccc_gate_layer=None, s_dataloader=None,
              train_ids=None, test_ids=None, val_dataloader=None, tcga_dataloader=None, **kwargs):
-    """Complete ablation3 baseline: MOA -> main branch, SMILES -> CCC/TME gate, no rank loss."""
     return training2(
         drug_embedding_smiles, drug_embedding_MOA, cancer_encoder, ccc_encoder, ccc_gate_layer,
         s_dataloader, train_ids, test_ids, val_dataloader, tcga_dataloader,

@@ -96,7 +96,7 @@ def run_ablation(ablation_id, training_fn_name, params_grid=None, drug=None, for
     if force_retrain is not None:
         args.retrain_flag = bool(force_retrain)
     if params_grid is None:
-        params_grid = {"pretrain_num_epochs": [90], "train_num_epochs": [700]}# 
+        params_grid = {"pretrain_num_epochs": [100], "train_num_epochs": [700]}# 
     if drug is None:
         drug = DRUGS_9
 
@@ -125,7 +125,7 @@ def main(args, drug, params_dict, ablation_id, training_fn_name):
     model_save_folder = os.path.join(ABLATION_DIR, "model_save", exp_name)
 
     ccc_encoder_type = "mlp" if ablation_id == 2 else "bipartite"
-    pretrained_model_folder = os.path.join(PROJECT_ROOT, "src/model_save", "pretrain_num_epochs_90_train_num_epochs_700")
+    pretrained_model_folder = os.path.join(PROJECT_ROOT, "src/model_save", "pretrain_num_epochs_100_train_num_epochs_700")
     if ablation_id == 2:
         pretrained_model_folder = os.path.join(model_save_folder, param_str)
 
