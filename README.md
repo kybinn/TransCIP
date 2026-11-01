@@ -1,6 +1,6 @@
 # TransCIP
 
-**Communication-Associated Molecular Interaction Learning for Cross-Domain Drug Response Prediction**
+**Communication-Associated Molecular Interaction Learning for Clinical Drug Response Prediction**
 
 TransCIP is a transfer learning framework for predicting clinical drug response by transferring knowledge from labeled cancer cell lines to unlabeled patient tumors. It integrates communication-associated molecular interaction priors with molecular representation learning and prototype-guided cross-domain adaptation.
 
